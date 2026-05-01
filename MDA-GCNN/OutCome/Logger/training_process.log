@@ -1,0 +1,6 @@
+2024-03-06 14:48:18,817 - INFO - Epoch 0: Train Loss 4.0107, Train Acc 0.3116, Train F1 0.1649, Test Loss 0.0000, Test Acc 0.2975, Test F1 0.1540
+2024-03-06 14:49:37,030 - INFO - Epoch 1: Train Loss 2.3363, Train Acc 0.2924, Train F1 0.1738, Test Loss 0.0000, Test Acc 0.3049, Test F1 0.1836
+2024-03-06 14:54:15,670 - INFO - Epoch 0: Train Loss 2.4498, Train Acc 0.3308, Train F1 0.1644, Test Loss 0.0000, Test Acc 0.3270, Test F1 0.1611
+2024-03-06 14:55:36,748 - INFO - Epoch 1: Train Loss 1.4838, Train Acc 0.3308, Train F1 0.1644, Test Loss 0.0000, Test Acc 0.3270, Test F1 0.1611
+2024-03-06 14:58:25,908 - INFO - Epoch 0: Train Loss 4.0745, Train Acc 0.3333, Train F1 0.3303, Test Loss 1.2416, Test Acc 0.1105, Test F1 0.0892
+2024-03-06 14:59:10,585 - INFO - Epoch 1: Train Loss 2.6414, Train Acc 0.3219, Train F1 0.3197, Test Loss 1.2808, Test Acc 0.3373, Test F1 0.1701

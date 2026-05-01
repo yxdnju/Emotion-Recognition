@@ -1,0 +1,980 @@
+2024-03-26 11:03:53,232 - INFO - Loaded data for Subject 1 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,239 - INFO - Loaded data for Subject 2 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,247 - INFO - Loaded data for Subject 3 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,255 - INFO - Loaded data for Subject 4 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,263 - INFO - Loaded data for Subject 5 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,270 - INFO - Loaded data for Subject 6 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,277 - INFO - Loaded data for Subject 7 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,285 - INFO - Loaded data for Subject 8 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,293 - INFO - Loaded data for Subject 9 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,301 - INFO - Loaded data for Subject 10 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,308 - INFO - Loaded data for Subject 11 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,316 - INFO - Loaded data for Subject 12 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,323 - INFO - Loaded data for Subject 13 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,331 - INFO - Loaded data for Subject 14 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,338 - INFO - Loaded data for Subject 15 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:03:53,469 - INFO - 
+Processing Subject 1 as test set.
+2024-03-26 11:03:53,509 - INFO - Training set size: 47516, Test set size: 3394
+2024-03-26 11:03:53,509 - INFO - Epoch 1/5, Training with Subject 1 as test set.
+2024-03-26 11:15:58,237 - INFO - Subject 1, Epoch 1: Train Loss 0.9728, Test Loss 1.5098, Test Acc 0.3639, Test F1 0.3133
+2024-03-26 11:15:58,312 - INFO - Subject 1: Best Test Acc 0.3639
+2024-03-26 11:15:58,312 - INFO - Epoch 2/5, Training with Subject 1 as test set.
+2024-03-26 11:18:40,654 - INFO - Loaded data for Subject 1 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,662 - INFO - Loaded data for Subject 2 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,669 - INFO - Loaded data for Subject 3 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,677 - INFO - Loaded data for Subject 4 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,684 - INFO - Loaded data for Subject 5 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,691 - INFO - Loaded data for Subject 6 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,698 - INFO - Loaded data for Subject 7 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,706 - INFO - Loaded data for Subject 8 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,712 - INFO - Loaded data for Subject 9 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,720 - INFO - Loaded data for Subject 10 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,727 - INFO - Loaded data for Subject 11 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,735 - INFO - Loaded data for Subject 12 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,742 - INFO - Loaded data for Subject 13 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,750 - INFO - Loaded data for Subject 14 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,757 - INFO - Loaded data for Subject 15 with shape: Features (3394, 62, 5), Labels (3394,)
+2024-03-26 11:18:40,897 - INFO - 
+Processing Subject 1 as test set.
+2024-03-26 11:18:40,934 - INFO - Training set size: 47516, Test set size: 3394
+2024-03-26 11:18:40,934 - INFO - Epoch 1/100, Training with Subject 1 as test set.
+2024-03-26 11:31:48,484 - INFO - Subject 1, Epoch 1: Train Loss 0.9654, Test Loss 1.4352, Test Acc 0.3595, Test F1 0.2417
+2024-03-26 11:31:48,560 - INFO - Subject 1: Best Test Acc 0.3595
+2024-03-26 11:31:48,560 - INFO - Epoch 2/100, Training with Subject 1 as test set.
+2024-03-26 11:45:41,453 - INFO - Subject 1, Epoch 1: Train Loss 0.8290, Test Loss 3.0059, Test Acc 0.3665, Test F1 0.2749
+2024-03-26 11:45:41,464 - INFO - Subject 1: Best Test Acc 0.3665
+2024-03-26 11:45:41,464 - INFO - Epoch 3/100, Training with Subject 1 as test set.
+2024-03-26 11:58:02,923 - INFO - Subject 1, Epoch 1: Train Loss 0.6978, Test Loss 2.9801, Test Acc 0.3848, Test F1 0.3178
+2024-03-26 11:58:02,984 - INFO - Subject 1: Best Test Acc 0.3848
+2024-03-26 11:58:02,985 - INFO - Epoch 4/100, Training with Subject 1 as test set.
+2024-03-26 12:10:12,278 - INFO - Subject 1, Epoch 1: Train Loss 0.5556, Test Loss 2.8600, Test Acc 0.4337, Test F1 0.3940
+2024-03-26 12:10:12,286 - INFO - Subject 1: Best Test Acc 0.4337
+2024-03-26 12:10:12,286 - INFO - Epoch 5/100, Training with Subject 1 as test set.
+2024-03-26 12:22:24,378 - INFO - Subject 1, Epoch 1: Train Loss 0.4278, Test Loss 3.9060, Test Acc 0.3701, Test F1 0.3449
+2024-03-26 12:22:24,399 - INFO - Subject 1: Best Test Acc 0.3701
+2024-03-26 12:22:24,399 - INFO - Epoch 6/100, Training with Subject 1 as test set.
+2024-03-26 12:34:19,802 - INFO - Subject 1, Epoch 1: Train Loss 0.3428, Test Loss 4.5841, Test Acc 0.3683, Test F1 0.3609
+2024-03-26 12:34:19,808 - INFO - Subject 1: Best Test Acc 0.3683
+2024-03-26 12:34:19,809 - INFO - Epoch 7/100, Training with Subject 1 as test set.
+2024-03-26 12:46:14,907 - INFO - Subject 1, Epoch 1: Train Loss 0.2886, Test Loss 4.5932, Test Acc 0.3671, Test F1 0.3643
+2024-03-26 12:46:14,916 - INFO - Subject 1: Best Test Acc 0.3671
+2024-03-26 12:46:14,916 - INFO - Epoch 8/100, Training with Subject 1 as test set.
+2024-03-26 12:59:07,195 - INFO - Subject 1, Epoch 1: Train Loss 0.2664, Test Loss 4.7312, Test Acc 0.3642, Test F1 0.3578
+2024-03-26 12:59:07,249 - INFO - Subject 1: Best Test Acc 0.3642
+2024-03-26 12:59:07,249 - INFO - Epoch 9/100, Training with Subject 1 as test set.
+2024-03-26 13:12:38,001 - INFO - Subject 1, Epoch 1: Train Loss 0.4279, Test Loss 2.1439, Test Acc 0.5094, Test F1 0.5107
+2024-03-26 13:12:38,010 - INFO - Subject 1: Best Test Acc 0.5094
+2024-03-26 13:12:38,011 - INFO - Epoch 10/100, Training with Subject 1 as test set.
+2024-03-26 13:26:25,012 - INFO - Subject 1, Epoch 1: Train Loss 0.3207, Test Loss 2.8379, Test Acc 0.4502, Test F1 0.4483
+2024-03-26 13:26:25,021 - INFO - Subject 1: Best Test Acc 0.4502
+2024-03-26 13:26:25,022 - INFO - Epoch 11/100, Training with Subject 1 as test set.
+2024-03-26 13:40:05,971 - INFO - Subject 1, Epoch 1: Train Loss 0.2666, Test Loss 2.8577, Test Acc 0.5751, Test F1 0.5268
+2024-03-26 13:40:05,979 - INFO - Subject 1: Best Test Acc 0.5751
+2024-03-26 13:40:05,979 - INFO - Epoch 12/100, Training with Subject 1 as test set.
+2024-03-26 13:53:44,847 - INFO - Subject 1, Epoch 1: Train Loss 0.2279, Test Loss 2.8518, Test Acc 0.4717, Test F1 0.4281
+2024-03-26 13:53:44,856 - INFO - Subject 1: Best Test Acc 0.4717
+2024-03-26 13:53:44,856 - INFO - Epoch 13/100, Training with Subject 1 as test set.
+2024-03-26 14:07:27,219 - INFO - Subject 1, Epoch 1: Train Loss 0.1801, Test Loss 3.2290, Test Acc 0.5365, Test F1 0.5114
+2024-03-26 14:07:27,229 - INFO - Subject 1: Best Test Acc 0.5365
+2024-03-26 14:07:27,229 - INFO - Epoch 14/100, Training with Subject 1 as test set.
+2024-03-26 14:20:49,243 - INFO - Subject 1, Epoch 1: Train Loss 0.1474, Test Loss 3.5511, Test Acc 0.5071, Test F1 0.4202
+2024-03-26 14:20:49,263 - INFO - Subject 1: Best Test Acc 0.5071
+2024-03-26 14:20:49,264 - INFO - Epoch 15/100, Training with Subject 1 as test set.
+2024-03-26 14:34:33,099 - INFO - Subject 1, Epoch 1: Train Loss 0.1111, Test Loss 3.8851, Test Acc 0.5330, Test F1 0.4846
+2024-03-26 14:34:33,106 - INFO - Subject 1: Best Test Acc 0.5330
+2024-03-26 14:34:33,107 - INFO - Epoch 16/100, Training with Subject 1 as test set.
+2024-03-26 14:48:07,745 - INFO - Subject 1, Epoch 1: Train Loss 0.0887, Test Loss 3.3322, Test Acc 0.5368, Test F1 0.5022
+2024-03-26 14:48:07,755 - INFO - Subject 1: Best Test Acc 0.5368
+2024-03-26 14:48:07,755 - INFO - Epoch 17/100, Training with Subject 1 as test set.
+2024-03-26 15:01:37,643 - INFO - Subject 1, Epoch 1: Train Loss 0.0658, Test Loss 4.4396, Test Acc 0.5312, Test F1 0.4813
+2024-03-26 15:01:37,651 - INFO - Subject 1: Best Test Acc 0.5312
+2024-03-26 15:01:37,651 - INFO - Epoch 18/100, Training with Subject 1 as test set.
+2024-03-26 15:15:11,725 - INFO - Subject 1, Epoch 1: Train Loss 0.0475, Test Loss 4.3039, Test Acc 0.4932, Test F1 0.4658
+2024-03-26 15:15:11,745 - INFO - Subject 1: Best Test Acc 0.4932
+2024-03-26 15:15:11,745 - INFO - Epoch 19/100, Training with Subject 1 as test set.
+2024-03-26 15:29:38,285 - INFO - Subject 1, Epoch 1: Train Loss 0.0346, Test Loss 4.6845, Test Acc 0.4714, Test F1 0.4466
+2024-03-26 15:29:38,294 - INFO - Subject 1: Best Test Acc 0.4714
+2024-03-26 15:29:38,294 - INFO - Epoch 20/100, Training with Subject 1 as test set.
+2024-03-26 15:42:54,751 - INFO - Subject 1, Epoch 1: Train Loss 0.0264, Test Loss 5.0338, Test Acc 0.4670, Test F1 0.4481
+2024-03-26 15:42:54,759 - INFO - Subject 1: Best Test Acc 0.4670
+2024-03-26 15:42:54,759 - INFO - Epoch 21/100, Training with Subject 1 as test set.
+2024-03-26 15:56:04,457 - INFO - Subject 1, Epoch 1: Train Loss 0.0214, Test Loss 5.5991, Test Acc 0.4611, Test F1 0.4410
+2024-03-26 15:56:04,464 - INFO - Subject 1: Best Test Acc 0.4611
+2024-03-26 15:56:04,465 - INFO - Epoch 22/100, Training with Subject 1 as test set.
+2024-03-26 16:09:17,012 - INFO - Subject 1, Epoch 1: Train Loss 0.0185, Test Loss 5.3496, Test Acc 0.4688, Test F1 0.4605
+2024-03-26 16:09:17,018 - INFO - Subject 1: Best Test Acc 0.4688
+2024-03-26 16:09:17,019 - INFO - Epoch 23/100, Training with Subject 1 as test set.
+2024-03-26 16:22:53,327 - INFO - Subject 1, Epoch 1: Train Loss 0.0173, Test Loss 5.3287, Test Acc 0.4638, Test F1 0.4555
+2024-03-26 16:22:53,335 - INFO - Subject 1: Best Test Acc 0.4638
+2024-03-26 16:22:53,335 - INFO - Epoch 24/100, Training with Subject 1 as test set.
+2024-03-26 16:36:18,380 - INFO - Subject 1, Epoch 1: Train Loss 0.3018, Test Loss 4.5929, Test Acc 0.4585, Test F1 0.3860
+2024-03-26 16:36:18,388 - INFO - Subject 1: Best Test Acc 0.4585
+2024-03-26 16:36:18,388 - INFO - Epoch 25/100, Training with Subject 1 as test set.
+2024-03-26 16:49:55,623 - INFO - Subject 1, Epoch 1: Train Loss 0.1492, Test Loss 3.3059, Test Acc 0.5551, Test F1 0.4780
+2024-03-26 16:49:55,630 - INFO - Subject 1: Best Test Acc 0.5551
+2024-03-26 16:49:55,631 - INFO - Epoch 26/100, Training with Subject 1 as test set.
+2024-03-26 17:03:34,187 - INFO - Subject 1, Epoch 1: Train Loss 0.1209, Test Loss 3.8288, Test Acc 0.4758, Test F1 0.3778
+2024-03-26 17:03:34,195 - INFO - Subject 1: Best Test Acc 0.4758
+2024-03-26 17:03:34,195 - INFO - Epoch 27/100, Training with Subject 1 as test set.
+2024-03-26 17:17:40,149 - INFO - Subject 1, Epoch 1: Train Loss 0.1063, Test Loss 2.7557, Test Acc 0.5262, Test F1 0.5054
+2024-03-26 17:17:40,156 - INFO - Subject 1: Best Test Acc 0.5262
+2024-03-26 17:17:40,157 - INFO - Epoch 28/100, Training with Subject 1 as test set.
+2024-03-26 17:32:11,013 - INFO - Subject 1, Epoch 1: Train Loss 0.0939, Test Loss 3.6760, Test Acc 0.5778, Test F1 0.5259
+2024-03-26 17:32:11,021 - INFO - Subject 1: Best Test Acc 0.5778
+2024-03-26 17:32:11,021 - INFO - Epoch 29/100, Training with Subject 1 as test set.
+2024-03-26 17:46:13,234 - INFO - Subject 1, Epoch 1: Train Loss 0.0819, Test Loss 3.7250, Test Acc 0.5371, Test F1 0.5015
+2024-03-26 17:46:13,242 - INFO - Subject 1: Best Test Acc 0.5371
+2024-03-26 17:46:13,242 - INFO - Epoch 30/100, Training with Subject 1 as test set.
+2024-03-26 18:00:37,326 - INFO - Subject 1, Epoch 1: Train Loss 0.0754, Test Loss 5.4122, Test Acc 0.5689, Test F1 0.5254
+2024-03-26 18:00:37,338 - INFO - Subject 1: Best Test Acc 0.5689
+2024-03-26 18:00:37,338 - INFO - Epoch 31/100, Training with Subject 1 as test set.
+2024-03-26 18:14:57,506 - INFO - Subject 1, Epoch 1: Train Loss 0.0642, Test Loss 5.1163, Test Acc 0.5138, Test F1 0.4328
+2024-03-26 18:14:57,513 - INFO - Subject 1: Best Test Acc 0.5138
+2024-03-26 18:14:57,514 - INFO - Epoch 32/100, Training with Subject 1 as test set.
+2024-03-26 18:29:14,856 - INFO - Subject 1, Epoch 1: Train Loss 0.0671, Test Loss 4.6158, Test Acc 0.5866, Test F1 0.5565
+2024-03-26 18:29:14,863 - INFO - Subject 1: Best Test Acc 0.5866
+2024-03-26 18:29:14,864 - INFO - Epoch 33/100, Training with Subject 1 as test set.
+2024-03-26 18:43:04,466 - INFO - Subject 1, Epoch 1: Train Loss 0.0547, Test Loss 4.3121, Test Acc 0.5966, Test F1 0.5421
+2024-03-26 18:43:04,475 - INFO - Subject 1: Best Test Acc 0.5966
+2024-03-26 18:43:04,475 - INFO - Epoch 34/100, Training with Subject 1 as test set.
+2024-03-26 18:56:36,693 - INFO - Subject 1, Epoch 1: Train Loss 0.0371, Test Loss 4.8026, Test Acc 0.5946, Test F1 0.5563
+2024-03-26 18:56:36,700 - INFO - Subject 1: Best Test Acc 0.5946
+2024-03-26 18:56:36,701 - INFO - Epoch 35/100, Training with Subject 1 as test set.
+2024-03-26 19:09:52,870 - INFO - Subject 1, Epoch 1: Train Loss 0.0383, Test Loss 4.7047, Test Acc 0.5401, Test F1 0.5080
+2024-03-26 19:09:52,877 - INFO - Subject 1: Best Test Acc 0.5401
+2024-03-26 19:09:52,878 - INFO - Epoch 36/100, Training with Subject 1 as test set.
+2024-03-26 19:22:28,997 - INFO - Subject 1, Epoch 1: Train Loss 0.0276, Test Loss 5.7664, Test Acc 0.4923, Test F1 0.4724
+2024-03-26 19:22:29,003 - INFO - Subject 1: Best Test Acc 0.4923
+2024-03-26 19:22:29,003 - INFO - Epoch 37/100, Training with Subject 1 as test set.
+2024-03-26 19:36:05,948 - INFO - Subject 1, Epoch 1: Train Loss 0.0295, Test Loss 4.3964, Test Acc 0.5197, Test F1 0.5183
+2024-03-26 19:36:05,967 - INFO - Subject 1: Best Test Acc 0.5197
+2024-03-26 19:36:05,967 - INFO - Epoch 38/100, Training with Subject 1 as test set.
+2024-03-26 19:50:30,876 - INFO - Subject 1, Epoch 1: Train Loss 0.0172, Test Loss 4.6493, Test Acc 0.5972, Test F1 0.5746
+2024-03-26 19:50:30,884 - INFO - Subject 1: Best Test Acc 0.5972
+2024-03-26 19:50:30,884 - INFO - Epoch 39/100, Training with Subject 1 as test set.
+2024-03-26 20:04:53,225 - INFO - Subject 1, Epoch 1: Train Loss 0.0277, Test Loss 5.0403, Test Acc 0.5536, Test F1 0.5217
+2024-03-26 20:04:53,234 - INFO - Subject 1: Best Test Acc 0.5536
+2024-03-26 20:04:53,235 - INFO - Epoch 40/100, Training with Subject 1 as test set.
+2024-03-26 20:19:14,501 - INFO - Subject 1, Epoch 1: Train Loss 0.0129, Test Loss 4.8381, Test Acc 0.5486, Test F1 0.5198
+2024-03-26 20:19:14,511 - INFO - Subject 1: Best Test Acc 0.5486
+2024-03-26 20:19:14,512 - INFO - Epoch 41/100, Training with Subject 1 as test set.
+2024-03-26 20:33:16,616 - INFO - Subject 1, Epoch 1: Train Loss 0.0103, Test Loss 4.8732, Test Acc 0.6043, Test F1 0.5770
+2024-03-26 20:33:16,625 - INFO - Subject 1: Best Test Acc 0.6043
+2024-03-26 20:33:16,625 - INFO - Epoch 42/100, Training with Subject 1 as test set.
+2024-03-26 20:47:35,089 - INFO - Subject 1, Epoch 1: Train Loss 0.0112, Test Loss 4.3103, Test Acc 0.5091, Test F1 0.4928
+2024-03-26 20:47:35,097 - INFO - Subject 1: Best Test Acc 0.5091
+2024-03-26 20:47:35,097 - INFO - Epoch 43/100, Training with Subject 1 as test set.
+2024-03-26 21:01:27,964 - INFO - Subject 1, Epoch 1: Train Loss 0.0045, Test Loss 5.2535, Test Acc 0.5215, Test F1 0.4853
+2024-03-26 21:01:27,971 - INFO - Subject 1: Best Test Acc 0.5215
+2024-03-26 21:01:27,973 - INFO - Epoch 44/100, Training with Subject 1 as test set.
+2024-03-26 21:15:28,598 - INFO - Subject 1, Epoch 1: Train Loss 0.0055, Test Loss 5.2180, Test Acc 0.5194, Test F1 0.4515
+2024-03-26 21:15:28,607 - INFO - Subject 1: Best Test Acc 0.5194
+2024-03-26 21:15:28,607 - INFO - Epoch 45/100, Training with Subject 1 as test set.
+2024-03-26 21:29:12,274 - INFO - Subject 1, Epoch 1: Train Loss 0.0032, Test Loss 5.1142, Test Acc 0.5519, Test F1 0.5250
+2024-03-26 21:29:12,283 - INFO - Subject 1: Best Test Acc 0.5519
+2024-03-26 21:29:12,284 - INFO - Epoch 46/100, Training with Subject 1 as test set.
+2024-03-26 21:43:09,331 - INFO - Subject 1, Epoch 1: Train Loss 0.0026, Test Loss 5.2634, Test Acc 0.5383, Test F1 0.5111
+2024-03-26 21:43:09,385 - INFO - Subject 1: Best Test Acc 0.5383
+2024-03-26 21:43:09,385 - INFO - Epoch 47/100, Training with Subject 1 as test set.
+2024-03-26 21:57:15,332 - INFO - Subject 1, Epoch 1: Train Loss 0.0022, Test Loss 5.4269, Test Acc 0.5321, Test F1 0.5038
+2024-03-26 21:57:15,342 - INFO - Subject 1: Best Test Acc 0.5321
+2024-03-26 21:57:15,342 - INFO - Epoch 48/100, Training with Subject 1 as test set.
+2024-03-26 22:11:19,130 - INFO - Subject 1, Epoch 1: Train Loss 0.0019, Test Loss 5.6709, Test Acc 0.5085, Test F1 0.4658
+2024-03-26 22:11:19,137 - INFO - Subject 1: Best Test Acc 0.5085
+2024-03-26 22:11:19,138 - INFO - Epoch 49/100, Training with Subject 1 as test set.
+2024-03-26 22:25:04,634 - INFO - Subject 1, Epoch 1: Train Loss 0.0016, Test Loss 5.6031, Test Acc 0.5386, Test F1 0.5092
+2024-03-26 22:25:04,641 - INFO - Subject 1: Best Test Acc 0.5386
+2024-03-26 22:25:04,641 - INFO - Epoch 50/100, Training with Subject 1 as test set.
+2024-03-26 22:38:49,443 - INFO - Subject 1, Epoch 1: Train Loss 0.0014, Test Loss 5.6428, Test Acc 0.5256, Test F1 0.4938
+2024-03-26 22:38:49,452 - INFO - Subject 1: Best Test Acc 0.5256
+2024-03-26 22:38:49,453 - INFO - Epoch 51/100, Training with Subject 1 as test set.
+2024-03-26 22:52:40,556 - INFO - Subject 1, Epoch 1: Train Loss 0.0013, Test Loss 5.5818, Test Acc 0.5460, Test F1 0.5199
+2024-03-26 22:52:40,568 - INFO - Subject 1: Best Test Acc 0.5460
+2024-03-26 22:52:40,569 - INFO - Epoch 52/100, Training with Subject 1 as test set.
+2024-03-26 23:06:41,830 - INFO - Subject 1, Epoch 1: Train Loss 0.0013, Test Loss 5.5859, Test Acc 0.5483, Test F1 0.5220
+2024-03-26 23:06:41,837 - INFO - Subject 1: Best Test Acc 0.5483
+2024-03-26 23:06:41,838 - INFO - Epoch 53/100, Training with Subject 1 as test set.
+2024-03-26 23:20:49,381 - INFO - Subject 1, Epoch 1: Train Loss 0.0012, Test Loss 5.5897, Test Acc 0.5483, Test F1 0.5222
+2024-03-26 23:20:49,394 - INFO - Subject 1: Best Test Acc 0.5483
+2024-03-26 23:20:49,394 - INFO - Epoch 54/100, Training with Subject 1 as test set.
+2024-03-26 23:34:53,495 - INFO - Subject 1, Epoch 1: Train Loss 0.1565, Test Loss 6.8844, Test Acc 0.4246, Test F1 0.3206
+2024-03-26 23:34:53,503 - INFO - Subject 1: Best Test Acc 0.4246
+2024-03-26 23:34:53,503 - INFO - Epoch 55/100, Training with Subject 1 as test set.
+2024-03-26 23:48:48,373 - INFO - Subject 1, Epoch 1: Train Loss 0.0691, Test Loss 6.3790, Test Acc 0.4484, Test F1 0.3460
+2024-03-26 23:48:48,382 - INFO - Subject 1: Best Test Acc 0.4484
+2024-03-26 23:48:48,382 - INFO - Epoch 56/100, Training with Subject 1 as test set.
+2024-03-27 00:02:44,397 - INFO - Subject 1, Epoch 1: Train Loss 0.0525, Test Loss 6.4368, Test Acc 0.4838, Test F1 0.3815
+2024-03-27 00:02:44,408 - INFO - Subject 1: Best Test Acc 0.4838
+2024-03-27 00:02:44,408 - INFO - Epoch 57/100, Training with Subject 1 as test set.
+2024-03-27 00:16:26,692 - INFO - Subject 1, Epoch 1: Train Loss 0.0619, Test Loss 5.7918, Test Acc 0.5006, Test F1 0.4470
+2024-03-27 00:16:26,700 - INFO - Subject 1: Best Test Acc 0.5006
+2024-03-27 00:16:26,700 - INFO - Epoch 58/100, Training with Subject 1 as test set.
+2024-03-27 00:29:53,765 - INFO - Subject 1, Epoch 1: Train Loss 0.0396, Test Loss 4.9902, Test Acc 0.5088, Test F1 0.4672
+2024-03-27 00:29:53,771 - INFO - Subject 1: Best Test Acc 0.5088
+2024-03-27 00:29:53,772 - INFO - Epoch 59/100, Training with Subject 1 as test set.
+2024-03-27 00:43:15,547 - INFO - Subject 1, Epoch 1: Train Loss 0.0546, Test Loss 5.4046, Test Acc 0.4010, Test F1 0.3278
+2024-03-27 00:43:15,558 - INFO - Subject 1: Best Test Acc 0.4010
+2024-03-27 00:43:15,559 - INFO - Epoch 60/100, Training with Subject 1 as test set.
+2024-03-27 00:56:37,015 - INFO - Subject 1, Epoch 1: Train Loss 0.0474, Test Loss 6.0659, Test Acc 0.4605, Test F1 0.3909
+2024-03-27 00:56:37,022 - INFO - Subject 1: Best Test Acc 0.4605
+2024-03-27 00:56:37,022 - INFO - Epoch 61/100, Training with Subject 1 as test set.
+2024-03-27 01:09:59,615 - INFO - Subject 1, Epoch 1: Train Loss 0.0707, Test Loss 6.8659, Test Acc 0.4909, Test F1 0.4390
+2024-03-27 01:09:59,626 - INFO - Subject 1: Best Test Acc 0.4909
+2024-03-27 01:09:59,626 - INFO - Epoch 62/100, Training with Subject 1 as test set.
+2024-03-27 01:23:24,037 - INFO - Subject 1, Epoch 1: Train Loss 0.0172, Test Loss 6.5099, Test Acc 0.4776, Test F1 0.4295
+2024-03-27 01:23:24,047 - INFO - Subject 1: Best Test Acc 0.4776
+2024-03-27 01:23:24,047 - INFO - Epoch 63/100, Training with Subject 1 as test set.
+2024-03-27 01:36:46,268 - INFO - Subject 1, Epoch 1: Train Loss 0.0288, Test Loss 6.9087, Test Acc 0.4573, Test F1 0.4038
+2024-03-27 01:36:46,274 - INFO - Subject 1: Best Test Acc 0.4573
+2024-03-27 01:36:46,275 - INFO - Epoch 64/100, Training with Subject 1 as test set.
+2024-03-27 01:50:06,817 - INFO - Subject 1, Epoch 1: Train Loss 0.0425, Test Loss 6.2924, Test Acc 0.5147, Test F1 0.4691
+2024-03-27 01:50:06,828 - INFO - Subject 1: Best Test Acc 0.5147
+2024-03-27 01:50:06,828 - INFO - Epoch 65/100, Training with Subject 1 as test set.
+2024-03-27 02:03:27,098 - INFO - Subject 1, Epoch 1: Train Loss 0.0392, Test Loss 7.1272, Test Acc 0.4906, Test F1 0.4441
+2024-03-27 02:03:27,107 - INFO - Subject 1: Best Test Acc 0.4906
+2024-03-27 02:03:27,108 - INFO - Epoch 66/100, Training with Subject 1 as test set.
+2024-03-27 02:16:52,506 - INFO - Subject 1, Epoch 1: Train Loss 0.0467, Test Loss 6.2478, Test Acc 0.5342, Test F1 0.4911
+2024-03-27 02:16:52,513 - INFO - Subject 1: Best Test Acc 0.5342
+2024-03-27 02:16:52,513 - INFO - Epoch 67/100, Training with Subject 1 as test set.
+2024-03-27 02:30:17,298 - INFO - Subject 1, Epoch 1: Train Loss 0.0068, Test Loss 6.6742, Test Acc 0.5362, Test F1 0.4945
+2024-03-27 02:30:17,306 - INFO - Subject 1: Best Test Acc 0.5362
+2024-03-27 02:30:17,307 - INFO - Epoch 68/100, Training with Subject 1 as test set.
+2024-03-27 02:43:41,352 - INFO - Subject 1, Epoch 1: Train Loss 0.0620, Test Loss 6.1683, Test Acc 0.5165, Test F1 0.4690
+2024-03-27 02:43:41,359 - INFO - Subject 1: Best Test Acc 0.5165
+2024-03-27 02:43:41,359 - INFO - Epoch 69/100, Training with Subject 1 as test set.
+2024-03-27 02:57:04,169 - INFO - Subject 1, Epoch 1: Train Loss 0.0340, Test Loss 6.2290, Test Acc 0.4755, Test F1 0.4264
+2024-03-27 02:57:04,177 - INFO - Subject 1: Best Test Acc 0.4755
+2024-03-27 02:57:04,177 - INFO - Epoch 70/100, Training with Subject 1 as test set.
+2024-03-27 03:10:28,130 - INFO - Subject 1, Epoch 1: Train Loss 0.0302, Test Loss 6.8226, Test Acc 0.4864, Test F1 0.4145
+2024-03-27 03:10:28,139 - INFO - Subject 1: Best Test Acc 0.4864
+2024-03-27 03:10:28,139 - INFO - Epoch 71/100, Training with Subject 1 as test set.
+2024-03-27 03:23:54,243 - INFO - Subject 1, Epoch 1: Train Loss 0.0089, Test Loss 7.1125, Test Acc 0.4676, Test F1 0.4160
+2024-03-27 03:23:54,251 - INFO - Subject 1: Best Test Acc 0.4676
+2024-03-27 03:23:54,251 - INFO - Epoch 72/100, Training with Subject 1 as test set.
+2024-03-27 03:37:32,160 - INFO - Subject 1, Epoch 1: Train Loss 0.0322, Test Loss 7.4713, Test Acc 0.4891, Test F1 0.4396
+2024-03-27 03:37:32,169 - INFO - Subject 1: Best Test Acc 0.4891
+2024-03-27 03:37:32,171 - INFO - Epoch 73/100, Training with Subject 1 as test set.
+2024-03-27 03:50:54,538 - INFO - Subject 1, Epoch 1: Train Loss 0.0270, Test Loss 4.1533, Test Acc 0.5498, Test F1 0.4807
+2024-03-27 03:50:54,549 - INFO - Subject 1: Best Test Acc 0.5498
+2024-03-27 03:50:54,549 - INFO - Epoch 74/100, Training with Subject 1 as test set.
+2024-03-27 04:04:14,617 - INFO - Subject 1, Epoch 1: Train Loss 0.0080, Test Loss 5.6839, Test Acc 0.5539, Test F1 0.5150
+2024-03-27 04:04:14,623 - INFO - Subject 1: Best Test Acc 0.5539
+2024-03-27 04:04:14,623 - INFO - Epoch 75/100, Training with Subject 1 as test set.
+2024-03-27 04:17:38,622 - INFO - Subject 1, Epoch 1: Train Loss 0.0280, Test Loss 5.5454, Test Acc 0.5474, Test F1 0.5068
+2024-03-27 04:17:38,677 - INFO - Subject 1: Best Test Acc 0.5474
+2024-03-27 04:17:38,677 - INFO - Epoch 76/100, Training with Subject 1 as test set.
+2024-03-27 04:31:00,400 - INFO - Subject 1, Epoch 1: Train Loss 0.0069, Test Loss 5.9851, Test Acc 0.4735, Test F1 0.4209
+2024-03-27 04:31:00,411 - INFO - Subject 1: Best Test Acc 0.4735
+2024-03-27 04:31:00,411 - INFO - Epoch 77/100, Training with Subject 1 as test set.
+2024-03-27 04:44:20,856 - INFO - Subject 1, Epoch 1: Train Loss 0.0199, Test Loss 7.2142, Test Acc 0.4856, Test F1 0.4372
+2024-03-27 04:44:20,863 - INFO - Subject 1: Best Test Acc 0.4856
+2024-03-27 04:44:20,864 - INFO - Epoch 78/100, Training with Subject 1 as test set.
+2024-03-27 04:57:41,096 - INFO - Subject 1, Epoch 1: Train Loss 0.0197, Test Loss 6.6990, Test Acc 0.5027, Test F1 0.4610
+2024-03-27 04:57:41,103 - INFO - Subject 1: Best Test Acc 0.5027
+2024-03-27 04:57:41,104 - INFO - Epoch 79/100, Training with Subject 1 as test set.
+2024-03-27 05:11:02,455 - INFO - Subject 1, Epoch 1: Train Loss 0.0023, Test Loss 7.2473, Test Acc 0.4856, Test F1 0.4378
+2024-03-27 05:11:02,464 - INFO - Subject 1: Best Test Acc 0.4856
+2024-03-27 05:11:02,464 - INFO - Epoch 80/100, Training with Subject 1 as test set.
+2024-03-27 05:24:25,580 - INFO - Subject 1, Epoch 1: Train Loss 0.0163, Test Loss 7.3755, Test Acc 0.4588, Test F1 0.4063
+2024-03-27 05:24:25,588 - INFO - Subject 1: Best Test Acc 0.4588
+2024-03-27 05:24:25,588 - INFO - Epoch 81/100, Training with Subject 1 as test set.
+2024-03-27 05:37:48,394 - INFO - Subject 1, Epoch 1: Train Loss 0.0197, Test Loss 6.2607, Test Acc 0.4859, Test F1 0.4444
+2024-03-27 05:37:48,400 - INFO - Subject 1: Best Test Acc 0.4859
+2024-03-27 05:37:48,400 - INFO - Epoch 82/100, Training with Subject 1 as test set.
+2024-03-27 05:51:09,825 - INFO - Subject 1, Epoch 1: Train Loss 0.0024, Test Loss 7.3014, Test Acc 0.4897, Test F1 0.4433
+2024-03-27 05:51:09,831 - INFO - Subject 1: Best Test Acc 0.4897
+2024-03-27 05:51:09,831 - INFO - Epoch 83/100, Training with Subject 1 as test set.
+2024-03-27 06:04:32,933 - INFO - Subject 1, Epoch 1: Train Loss 0.0017, Test Loss 7.6107, Test Acc 0.4708, Test F1 0.4205
+2024-03-27 06:04:32,940 - INFO - Subject 1: Best Test Acc 0.4708
+2024-03-27 06:04:32,940 - INFO - Epoch 84/100, Training with Subject 1 as test set.
+2024-03-27 06:17:57,901 - INFO - Subject 1, Epoch 1: Train Loss 0.0146, Test Loss 6.7169, Test Acc 0.5165, Test F1 0.4781
+2024-03-27 06:17:57,907 - INFO - Subject 1: Best Test Acc 0.5165
+2024-03-27 06:17:57,907 - INFO - Epoch 85/100, Training with Subject 1 as test set.
+2024-03-27 06:31:18,759 - INFO - Subject 1, Epoch 1: Train Loss 0.0015, Test Loss 7.3561, Test Acc 0.4753, Test F1 0.4288
+2024-03-27 06:31:18,767 - INFO - Subject 1: Best Test Acc 0.4753
+2024-03-27 06:31:18,767 - INFO - Epoch 86/100, Training with Subject 1 as test set.
+2024-03-27 06:44:39,446 - INFO - Subject 1, Epoch 1: Train Loss 0.0152, Test Loss 5.8729, Test Acc 0.5003, Test F1 0.4618
+2024-03-27 06:44:39,462 - INFO - Subject 1: Best Test Acc 0.5003
+2024-03-27 06:44:39,462 - INFO - Epoch 87/100, Training with Subject 1 as test set.
+2024-03-27 06:57:59,687 - INFO - Subject 1, Epoch 1: Train Loss 0.0018, Test Loss 6.2742, Test Acc 0.4629, Test F1 0.4086
+2024-03-27 06:57:59,695 - INFO - Subject 1: Best Test Acc 0.4629
+2024-03-27 06:57:59,697 - INFO - Epoch 88/100, Training with Subject 1 as test set.
+2024-03-27 07:11:21,288 - INFO - Subject 1, Epoch 1: Train Loss 0.0105, Test Loss 7.2096, Test Acc 0.4676, Test F1 0.3980
+2024-03-27 07:11:21,295 - INFO - Subject 1: Best Test Acc 0.4676
+2024-03-27 07:11:21,295 - INFO - Epoch 89/100, Training with Subject 1 as test set.
+2024-03-27 07:24:41,684 - INFO - Subject 1, Epoch 1: Train Loss 0.0014, Test Loss 6.9759, Test Acc 0.4785, Test F1 0.4229
+2024-03-27 07:24:41,690 - INFO - Subject 1: Best Test Acc 0.4785
+2024-03-27 07:24:41,691 - INFO - Epoch 90/100, Training with Subject 1 as test set.
+2024-03-27 07:38:01,934 - INFO - Subject 1, Epoch 1: Train Loss 0.0068, Test Loss 7.0832, Test Acc 0.4599, Test F1 0.3974
+2024-03-27 07:38:01,941 - INFO - Subject 1: Best Test Acc 0.4599
+2024-03-27 07:38:01,941 - INFO - Epoch 91/100, Training with Subject 1 as test set.
+2024-03-27 07:51:18,993 - INFO - Subject 1, Epoch 1: Train Loss 0.0013, Test Loss 7.4020, Test Acc 0.4629, Test F1 0.4003
+2024-03-27 07:51:18,999 - INFO - Subject 1: Best Test Acc 0.4629
+2024-03-27 07:51:19,000 - INFO - Epoch 92/100, Training with Subject 1 as test set.
+2024-03-27 08:04:38,889 - INFO - Subject 1, Epoch 1: Train Loss 0.0011, Test Loss 7.2610, Test Acc 0.4664, Test F1 0.4090
+2024-03-27 08:04:38,900 - INFO - Subject 1: Best Test Acc 0.4664
+2024-03-27 08:04:38,900 - INFO - Epoch 93/100, Training with Subject 1 as test set.
+2024-03-27 08:18:00,949 - INFO - Subject 1, Epoch 1: Train Loss 0.0037, Test Loss 7.3016, Test Acc 0.4646, Test F1 0.3968
+2024-03-27 08:18:00,957 - INFO - Subject 1: Best Test Acc 0.4646
+2024-03-27 08:18:00,957 - INFO - Epoch 94/100, Training with Subject 1 as test set.
+2024-03-27 08:31:21,445 - INFO - Subject 1, Epoch 1: Train Loss 0.0008, Test Loss 7.0089, Test Acc 0.4720, Test F1 0.4135
+2024-03-27 08:31:21,451 - INFO - Subject 1: Best Test Acc 0.4720
+2024-03-27 08:31:21,452 - INFO - Epoch 95/100, Training with Subject 1 as test set.
+2024-03-27 08:44:40,982 - INFO - Subject 1, Epoch 1: Train Loss 0.0008, Test Loss 7.3947, Test Acc 0.4711, Test F1 0.4140
+2024-03-27 08:44:40,990 - INFO - Subject 1: Best Test Acc 0.4711
+2024-03-27 08:44:40,991 - INFO - Epoch 96/100, Training with Subject 1 as test set.
+2024-03-27 08:57:58,798 - INFO - Subject 1, Epoch 1: Train Loss 0.0032, Test Loss 7.0694, Test Acc 0.4909, Test F1 0.4439
+2024-03-27 08:57:58,808 - INFO - Subject 1: Best Test Acc 0.4909
+2024-03-27 08:57:58,809 - INFO - Epoch 97/100, Training with Subject 1 as test set.
+2024-03-27 09:11:21,241 - INFO - Subject 1, Epoch 1: Train Loss 0.0007, Test Loss 7.0766, Test Acc 0.4997, Test F1 0.4589
+2024-03-27 09:11:21,251 - INFO - Subject 1: Best Test Acc 0.4997
+2024-03-27 09:11:21,251 - INFO - Epoch 98/100, Training with Subject 1 as test set.
+2024-03-27 09:24:41,109 - INFO - Subject 1, Epoch 1: Train Loss 0.0006, Test Loss 7.4071, Test Acc 0.4832, Test F1 0.4348
+2024-03-27 09:24:41,116 - INFO - Subject 1: Best Test Acc 0.4832
+2024-03-27 09:24:41,116 - INFO - Epoch 99/100, Training with Subject 1 as test set.
+2024-03-27 09:38:01,824 - INFO - Subject 1, Epoch 1: Train Loss 0.0006, Test Loss 7.5506, Test Acc 0.4779, Test F1 0.4262
+2024-03-27 09:38:01,831 - INFO - Subject 1: Best Test Acc 0.4779
+2024-03-27 09:38:01,831 - INFO - Epoch 100/100, Training with Subject 1 as test set.
+2024-03-27 09:51:22,379 - INFO - Subject 1, Epoch 1: Train Loss 0.0013, Test Loss 7.5129, Test Acc 0.4735, Test F1 0.4155
+2024-03-27 09:51:22,391 - INFO - Subject 1: Best Test Acc 0.4735
+2024-03-27 09:51:22,391 - INFO - 
+Processing Subject 2 as test set.
+2024-03-27 09:51:22,699 - INFO - Training set size: 47516, Test set size: 3394
+2024-03-27 09:51:22,700 - INFO - Epoch 1/100, Training with Subject 2 as test set.
+2024-03-27 10:04:43,293 - INFO - Subject 2, Epoch 1: Train Loss 0.0375, Test Loss 0.0137, Test Acc 0.9953, Test F1 0.9953
+2024-03-27 10:04:43,304 - INFO - Subject 2: Best Test Acc 0.9953
+2024-03-27 10:04:43,304 - INFO - Epoch 2/100, Training with Subject 2 as test set.
+2024-03-27 10:18:07,797 - INFO - Subject 2, Epoch 1: Train Loss 0.0073, Test Loss 0.0167, Test Acc 0.9982, Test F1 0.9982
+2024-03-27 10:18:07,853 - INFO - Subject 2: Best Test Acc 0.9982
+2024-03-27 10:18:07,854 - INFO - Epoch 3/100, Training with Subject 2 as test set.
+2024-03-27 10:31:27,578 - INFO - Subject 2, Epoch 1: Train Loss 0.0040, Test Loss 0.0052, Test Acc 1.0000, Test F1 1.0000
+2024-03-27 10:31:27,590 - INFO - Subject 2: Best Test Acc 1.0000
+2024-03-27 10:31:27,590 - INFO - Epoch 4/100, Training with Subject 2 as test set.
+2024-03-27 10:44:48,822 - INFO - Subject 2, Epoch 1: Train Loss 0.0028, Test Loss 0.0028, Test Acc 1.0000, Test F1 1.0000
+2024-03-27 10:44:48,830 - INFO - Subject 2: Best Test Acc 1.0000
+2024-03-27 10:44:48,831 - INFO - Epoch 5/100, Training with Subject 2 as test set.
+2024-03-27 10:58:09,206 - INFO - Subject 2, Epoch 1: Train Loss 0.0020, Test Loss 0.0062, Test Acc 1.0000, Test F1 1.0000
+2024-03-27 10:58:09,213 - INFO - Subject 2: Best Test Acc 1.0000
+2024-03-27 10:58:09,213 - INFO - Epoch 6/100, Training with Subject 2 as test set.
+2024-03-27 11:12:01,585 - INFO - Subject 2, Epoch 1: Train Loss 0.0016, Test Loss 0.0040, Test Acc 1.0000, Test F1 1.0000
+2024-03-27 11:12:01,601 - INFO - Subject 2: Best Test Acc 1.0000
+2024-03-27 11:12:01,601 - INFO - Epoch 7/100, Training with Subject 2 as test set.
+2024-03-27 11:25:27,006 - INFO - Subject 2, Epoch 1: Train Loss 0.0014, Test Loss 0.0075, Test Acc 0.9982, Test F1 0.9982
+2024-03-27 11:25:27,013 - INFO - Subject 2: Best Test Acc 0.9982
+2024-03-27 11:25:27,013 - INFO - Epoch 8/100, Training with Subject 2 as test set.
+2024-03-27 11:38:51,448 - INFO - Subject 2, Epoch 1: Train Loss 0.0012, Test Loss 0.0085, Test Acc 0.9976, Test F1 0.9976
+2024-03-27 11:38:51,455 - INFO - Subject 2: Best Test Acc 0.9976
+2024-03-27 11:38:51,455 - INFO - Epoch 9/100, Training with Subject 2 as test set.
+2024-03-27 11:52:10,453 - INFO - Subject 2, Epoch 1: Train Loss 0.0011, Test Loss 0.0108, Test Acc 0.9941, Test F1 0.9941
+2024-03-27 11:52:10,459 - INFO - Subject 2: Best Test Acc 0.9941
+2024-03-27 11:52:10,459 - INFO - Epoch 10/100, Training with Subject 2 as test set.
+2024-03-27 12:06:29,218 - INFO - Subject 2, Epoch 1: Train Loss 0.0010, Test Loss 0.0109, Test Acc 0.9944, Test F1 0.9944
+2024-03-27 12:06:29,239 - INFO - Subject 2: Best Test Acc 0.9944
+2024-03-27 12:06:29,240 - INFO - Epoch 11/100, Training with Subject 2 as test set.
+2024-03-27 12:20:35,007 - INFO - Subject 2, Epoch 1: Train Loss 0.0010, Test Loss 0.0108, Test Acc 0.9935, Test F1 0.9935
+2024-03-27 12:20:35,016 - INFO - Subject 2: Best Test Acc 0.9935
+2024-03-27 12:20:35,016 - INFO - Epoch 12/100, Training with Subject 2 as test set.
+2024-03-27 12:34:48,270 - INFO - Subject 2, Epoch 1: Train Loss 0.0010, Test Loss 0.0103, Test Acc 0.9941, Test F1 0.9941
+2024-03-27 12:34:48,279 - INFO - Subject 2: Best Test Acc 0.9941
+2024-03-27 12:34:48,279 - INFO - Epoch 13/100, Training with Subject 2 as test set.
+2024-03-27 12:48:54,123 - INFO - Subject 2, Epoch 1: Train Loss 0.0010, Test Loss 0.0106, Test Acc 0.9941, Test F1 0.9941
+2024-03-27 12:48:54,178 - INFO - Subject 2: Best Test Acc 0.9941
+2024-03-27 12:48:54,179 - INFO - Epoch 14/100, Training with Subject 2 as test set.
+2024-03-27 13:02:44,218 - INFO - Subject 2, Epoch 1: Train Loss 0.1322, Test Loss 0.2014, Test Acc 0.9013, Test F1 0.8977
+2024-03-27 13:02:44,227 - INFO - Subject 2: Best Test Acc 0.9013
+2024-03-27 13:02:44,227 - INFO - Epoch 15/100, Training with Subject 2 as test set.
+2024-03-27 13:17:04,507 - INFO - Subject 2, Epoch 1: Train Loss 0.0363, Test Loss 0.1023, Test Acc 0.9355, Test F1 0.9359
+2024-03-27 13:17:04,519 - INFO - Subject 2: Best Test Acc 0.9355
+2024-03-27 13:17:04,519 - INFO - Epoch 16/100, Training with Subject 2 as test set.
+2024-03-27 13:31:03,179 - INFO - Subject 2, Epoch 1: Train Loss 0.0244, Test Loss 0.1941, Test Acc 0.9160, Test F1 0.9169
+2024-03-27 13:31:03,192 - INFO - Subject 2: Best Test Acc 0.9160
+2024-03-27 13:31:03,193 - INFO - Epoch 17/100, Training with Subject 2 as test set.
+2024-03-27 13:44:43,348 - INFO - Subject 2, Epoch 1: Train Loss 0.0426, Test Loss 0.5819, Test Acc 0.8182, Test F1 0.8217
+2024-03-27 13:44:43,358 - INFO - Subject 2: Best Test Acc 0.8182
+2024-03-27 13:44:43,359 - INFO - Epoch 18/100, Training with Subject 2 as test set.
+2024-03-27 13:58:40,905 - INFO - Subject 2, Epoch 1: Train Loss 0.0335, Test Loss 0.4389, Test Acc 0.8780, Test F1 0.8791
+2024-03-27 13:58:40,915 - INFO - Subject 2: Best Test Acc 0.8780
+2024-03-27 13:58:40,916 - INFO - Epoch 19/100, Training with Subject 2 as test set.
+2024-03-27 14:12:02,388 - INFO - Subject 2, Epoch 1: Train Loss 0.0390, Test Loss 0.8206, Test Acc 0.8123, Test F1 0.8149
+2024-03-27 14:12:02,397 - INFO - Subject 2: Best Test Acc 0.8123
+2024-03-27 14:12:02,397 - INFO - Epoch 20/100, Training with Subject 2 as test set.
+2024-03-27 14:25:24,459 - INFO - Subject 2, Epoch 1: Train Loss 0.0087, Test Loss 0.5043, Test Acc 0.8338, Test F1 0.8367
+2024-03-27 14:25:24,466 - INFO - Subject 2: Best Test Acc 0.8338
+2024-03-27 14:25:24,466 - INFO - Epoch 21/100, Training with Subject 2 as test set.
+2024-03-27 14:38:49,080 - INFO - Subject 2, Epoch 1: Train Loss 0.0450, Test Loss 0.8150, Test Acc 0.8179, Test F1 0.8189
+2024-03-27 14:38:49,090 - INFO - Subject 2: Best Test Acc 0.8179
+2024-03-27 14:38:49,090 - INFO - Epoch 22/100, Training with Subject 2 as test set.
+2024-03-27 14:52:37,594 - INFO - Subject 2, Epoch 1: Train Loss 0.0396, Test Loss 1.2270, Test Acc 0.7908, Test F1 0.7917
+2024-03-27 14:52:37,604 - INFO - Subject 2: Best Test Acc 0.7908
+2024-03-27 14:52:37,604 - INFO - Epoch 23/100, Training with Subject 2 as test set.
+2024-03-27 15:06:29,954 - INFO - Subject 2, Epoch 1: Train Loss 0.0064, Test Loss 0.7736, Test Acc 0.8294, Test F1 0.8307
+2024-03-27 15:06:29,966 - INFO - Subject 2: Best Test Acc 0.8294
+2024-03-27 15:06:29,967 - INFO - Epoch 24/100, Training with Subject 2 as test set.
+2024-03-27 15:20:11,935 - INFO - Subject 2, Epoch 1: Train Loss 0.0404, Test Loss 0.6686, Test Acc 0.8209, Test F1 0.8230
+2024-03-27 15:20:11,942 - INFO - Subject 2: Best Test Acc 0.8209
+2024-03-27 15:20:11,943 - INFO - Epoch 25/100, Training with Subject 2 as test set.
+2024-03-27 15:34:25,145 - INFO - Subject 2, Epoch 1: Train Loss 0.0022, Test Loss 0.5157, Test Acc 0.8600, Test F1 0.8627
+2024-03-27 15:34:25,170 - INFO - Subject 2: Best Test Acc 0.8600
+2024-03-27 15:34:25,171 - INFO - Epoch 26/100, Training with Subject 2 as test set.
+2024-03-27 15:48:42,789 - INFO - Subject 2, Epoch 1: Train Loss 0.0341, Test Loss 0.6628, Test Acc 0.8474, Test F1 0.8443
+2024-03-27 15:48:42,796 - INFO - Subject 2: Best Test Acc 0.8474
+2024-03-27 15:48:42,797 - INFO - Epoch 27/100, Training with Subject 2 as test set.
+2024-03-27 16:02:44,819 - INFO - Subject 2, Epoch 1: Train Loss 0.0280, Test Loss 1.1614, Test Acc 0.7846, Test F1 0.7845
+2024-03-27 16:02:44,827 - INFO - Subject 2: Best Test Acc 0.7846
+2024-03-27 16:02:44,829 - INFO - Epoch 28/100, Training with Subject 2 as test set.
+2024-03-27 16:16:47,321 - INFO - Subject 2, Epoch 1: Train Loss 0.0234, Test Loss 4.9046, Test Acc 0.4847, Test F1 0.4153
+2024-03-27 16:16:47,331 - INFO - Subject 2: Best Test Acc 0.4847
+2024-03-27 16:16:47,331 - INFO - Epoch 29/100, Training with Subject 2 as test set.
+2024-03-27 16:30:36,801 - INFO - Subject 2, Epoch 1: Train Loss 0.0315, Test Loss 1.0341, Test Acc 0.7790, Test F1 0.7811
+2024-03-27 16:30:36,813 - INFO - Subject 2: Best Test Acc 0.7790
+2024-03-27 16:30:36,816 - INFO - Epoch 30/100, Training with Subject 2 as test set.
+2024-03-27 16:44:06,644 - INFO - Subject 2, Epoch 1: Train Loss 0.0022, Test Loss 0.9353, Test Acc 0.7846, Test F1 0.7855
+2024-03-27 16:44:06,655 - INFO - Subject 2: Best Test Acc 0.7846
+2024-03-27 16:44:06,655 - INFO - Epoch 31/100, Training with Subject 2 as test set.
+2024-03-27 16:57:49,222 - INFO - Subject 2, Epoch 1: Train Loss 0.0604, Test Loss 2.1349, Test Acc 0.6535, Test F1 0.6388
+2024-03-27 16:57:49,234 - INFO - Subject 2: Best Test Acc 0.6535
+2024-03-27 16:57:49,235 - INFO - Epoch 32/100, Training with Subject 2 as test set.
+2024-03-27 17:11:45,598 - INFO - Subject 2, Epoch 1: Train Loss 0.0164, Test Loss 1.1543, Test Acc 0.7222, Test F1 0.7172
+2024-03-27 17:11:45,609 - INFO - Subject 2: Best Test Acc 0.7222
+2024-03-27 17:11:45,609 - INFO - Epoch 33/100, Training with Subject 2 as test set.
+2024-03-27 17:25:51,052 - INFO - Subject 2, Epoch 1: Train Loss 0.0086, Test Loss 1.4278, Test Acc 0.7086, Test F1 0.7024
+2024-03-27 17:25:51,061 - INFO - Subject 2: Best Test Acc 0.7086
+2024-03-27 17:25:51,061 - INFO - Epoch 34/100, Training with Subject 2 as test set.
+2024-03-27 17:40:02,741 - INFO - Subject 2, Epoch 1: Train Loss 0.0301, Test Loss 1.2402, Test Acc 0.7634, Test F1 0.7576
+2024-03-27 17:40:02,748 - INFO - Subject 2: Best Test Acc 0.7634
+2024-03-27 17:40:02,748 - INFO - Epoch 35/100, Training with Subject 2 as test set.
+2024-03-27 17:53:35,926 - INFO - Subject 2, Epoch 1: Train Loss 0.0342, Test Loss 1.7121, Test Acc 0.6777, Test F1 0.6619
+2024-03-27 17:53:35,933 - INFO - Subject 2: Best Test Acc 0.6777
+2024-03-27 17:53:35,934 - INFO - Epoch 36/100, Training with Subject 2 as test set.
+2024-03-27 18:07:12,120 - INFO - Subject 2, Epoch 1: Train Loss 0.0036, Test Loss 1.2559, Test Acc 0.7216, Test F1 0.7098
+2024-03-27 18:07:12,130 - INFO - Subject 2: Best Test Acc 0.7216
+2024-03-27 18:07:12,131 - INFO - Epoch 37/100, Training with Subject 2 as test set.
+2024-03-27 18:21:22,359 - INFO - Subject 2, Epoch 1: Train Loss 0.0448, Test Loss 1.6259, Test Acc 0.6788, Test F1 0.6631
+2024-03-27 18:21:22,369 - INFO - Subject 2: Best Test Acc 0.6788
+2024-03-27 18:21:22,369 - INFO - Epoch 38/100, Training with Subject 2 as test set.
+2024-03-27 18:35:20,760 - INFO - Subject 2, Epoch 1: Train Loss 0.0246, Test Loss 1.9418, Test Acc 0.6833, Test F1 0.6689
+2024-03-27 18:35:20,771 - INFO - Subject 2: Best Test Acc 0.6833
+2024-03-27 18:35:20,772 - INFO - Epoch 39/100, Training with Subject 2 as test set.
+2024-03-27 18:49:15,759 - INFO - Subject 2, Epoch 1: Train Loss 0.0223, Test Loss 1.2028, Test Acc 0.7169, Test F1 0.7075
+2024-03-27 18:49:15,766 - INFO - Subject 2: Best Test Acc 0.7169
+2024-03-27 18:49:15,766 - INFO - Epoch 40/100, Training with Subject 2 as test set.
+2024-03-27 19:03:15,249 - INFO - Subject 2, Epoch 1: Train Loss 0.0028, Test Loss 1.5254, Test Acc 0.6906, Test F1 0.6778
+2024-03-27 19:03:15,258 - INFO - Subject 2: Best Test Acc 0.6906
+2024-03-27 19:03:15,258 - INFO - Epoch 41/100, Training with Subject 2 as test set.
+2024-03-27 19:17:43,398 - INFO - Subject 2, Epoch 1: Train Loss 0.0360, Test Loss 1.1843, Test Acc 0.7496, Test F1 0.7530
+2024-03-27 19:17:43,406 - INFO - Subject 2: Best Test Acc 0.7496
+2024-03-27 19:17:43,407 - INFO - Epoch 42/100, Training with Subject 2 as test set.
+2024-03-27 19:32:14,750 - INFO - Subject 2, Epoch 1: Train Loss 0.0030, Test Loss 1.2747, Test Acc 0.7416, Test F1 0.7418
+2024-03-27 19:32:14,759 - INFO - Subject 2: Best Test Acc 0.7416
+2024-03-27 19:32:14,759 - INFO - Epoch 43/100, Training with Subject 2 as test set.
+2024-03-27 19:46:24,440 - INFO - Subject 2, Epoch 1: Train Loss 0.0300, Test Loss 1.4123, Test Acc 0.7169, Test F1 0.7069
+2024-03-27 19:46:24,449 - INFO - Subject 2: Best Test Acc 0.7169
+2024-03-27 19:46:24,450 - INFO - Epoch 44/100, Training with Subject 2 as test set.
+2024-03-27 20:00:02,754 - INFO - Subject 2, Epoch 1: Train Loss 0.0021, Test Loss 1.6197, Test Acc 0.6942, Test F1 0.6845
+2024-03-27 20:00:02,761 - INFO - Subject 2: Best Test Acc 0.6942
+2024-03-27 20:00:02,762 - INFO - Epoch 45/100, Training with Subject 2 as test set.
+2024-03-27 20:13:37,376 - INFO - Subject 2, Epoch 1: Train Loss 0.0255, Test Loss 2.4106, Test Acc 0.6674, Test F1 0.6517
+2024-03-27 20:13:37,386 - INFO - Subject 2: Best Test Acc 0.6674
+2024-03-27 20:13:37,386 - INFO - Epoch 46/100, Training with Subject 2 as test set.
+2024-03-27 20:27:27,452 - INFO - Subject 2, Epoch 1: Train Loss 0.0079, Test Loss 1.9822, Test Acc 0.6800, Test F1 0.6689
+2024-03-27 20:27:27,461 - INFO - Subject 2: Best Test Acc 0.6800
+2024-03-27 20:27:27,462 - INFO - Epoch 47/100, Training with Subject 2 as test set.
+2024-03-27 20:41:29,581 - INFO - Subject 2, Epoch 1: Train Loss 0.0014, Test Loss 1.9305, Test Acc 0.6836, Test F1 0.6694
+2024-03-27 20:41:29,591 - INFO - Subject 2: Best Test Acc 0.6836
+2024-03-27 20:41:29,592 - INFO - Epoch 48/100, Training with Subject 2 as test set.
+2024-03-27 20:55:38,744 - INFO - Subject 2, Epoch 1: Train Loss 0.0205, Test Loss 1.7518, Test Acc 0.6732, Test F1 0.6647
+2024-03-27 20:55:38,752 - INFO - Subject 2: Best Test Acc 0.6732
+2024-03-27 20:55:38,753 - INFO - Epoch 49/100, Training with Subject 2 as test set.
+2024-03-27 21:09:34,989 - INFO - Subject 2, Epoch 1: Train Loss 0.0013, Test Loss 2.1596, Test Acc 0.6382, Test F1 0.6284
+2024-03-27 21:09:34,997 - INFO - Subject 2: Best Test Acc 0.6382
+2024-03-27 21:09:34,999 - INFO - Epoch 50/100, Training with Subject 2 as test set.
+2024-03-27 21:23:47,070 - INFO - Subject 2, Epoch 1: Train Loss 0.0254, Test Loss 2.1795, Test Acc 0.6517, Test F1 0.6418
+2024-03-27 21:23:47,079 - INFO - Subject 2: Best Test Acc 0.6517
+2024-03-27 21:23:47,080 - INFO - Epoch 51/100, Training with Subject 2 as test set.
+2024-03-27 21:37:21,292 - INFO - Subject 2, Epoch 1: Train Loss 0.0013, Test Loss 1.9924, Test Acc 0.6682, Test F1 0.6586
+2024-03-27 21:37:21,306 - INFO - Subject 2: Best Test Acc 0.6682
+2024-03-27 21:37:21,306 - INFO - Epoch 52/100, Training with Subject 2 as test set.
+2024-03-27 21:50:49,365 - INFO - Subject 2, Epoch 1: Train Loss 0.0207, Test Loss 1.6516, Test Acc 0.6718, Test F1 0.6654
+2024-03-27 21:50:49,375 - INFO - Subject 2: Best Test Acc 0.6718
+2024-03-27 21:50:49,375 - INFO - Epoch 53/100, Training with Subject 2 as test set.
+2024-03-27 22:04:15,550 - INFO - Subject 2, Epoch 1: Train Loss 0.0011, Test Loss 1.8992, Test Acc 0.6665, Test F1 0.6571
+2024-03-27 22:04:15,564 - INFO - Subject 2: Best Test Acc 0.6665
+2024-03-27 22:04:15,565 - INFO - Epoch 54/100, Training with Subject 2 as test set.
+2024-03-27 22:17:46,018 - INFO - Subject 2, Epoch 1: Train Loss 0.0260, Test Loss 1.7015, Test Acc 0.7001, Test F1 0.6873
+2024-03-27 22:17:46,025 - INFO - Subject 2: Best Test Acc 0.7001
+2024-03-27 22:17:46,026 - INFO - Epoch 55/100, Training with Subject 2 as test set.
+2024-03-27 22:31:50,224 - INFO - Subject 2, Epoch 1: Train Loss 0.0011, Test Loss 1.7561, Test Acc 0.6951, Test F1 0.6822
+2024-03-27 22:31:50,239 - INFO - Subject 2: Best Test Acc 0.6951
+2024-03-27 22:31:50,239 - INFO - Epoch 56/100, Training with Subject 2 as test set.
+2024-03-27 22:45:44,939 - INFO - Subject 2, Epoch 1: Train Loss 0.0008, Test Loss 1.6013, Test Acc 0.7009, Test F1 0.6910
+2024-03-27 22:45:44,952 - INFO - Subject 2: Best Test Acc 0.7009
+2024-03-27 22:45:44,952 - INFO - Epoch 57/100, Training with Subject 2 as test set.
+2024-03-27 22:59:44,170 - INFO - Subject 2, Epoch 1: Train Loss 0.0183, Test Loss 1.6977, Test Acc 0.6956, Test F1 0.6852
+2024-03-27 22:59:44,178 - INFO - Subject 2: Best Test Acc 0.6956
+2024-03-27 22:59:44,181 - INFO - Epoch 58/100, Training with Subject 2 as test set.
+2024-03-27 23:13:51,331 - INFO - Subject 2, Epoch 1: Train Loss 0.0008, Test Loss 1.7680, Test Acc 0.6836, Test F1 0.6690
+2024-03-27 23:13:51,344 - INFO - Subject 2: Best Test Acc 0.6836
+2024-03-27 23:13:51,345 - INFO - Epoch 59/100, Training with Subject 2 as test set.
+2024-03-27 23:28:00,758 - INFO - Subject 2, Epoch 1: Train Loss 0.0299, Test Loss 1.8599, Test Acc 0.7248, Test F1 0.7241
+2024-03-27 23:28:00,767 - INFO - Subject 2: Best Test Acc 0.7248
+2024-03-27 23:28:00,767 - INFO - Epoch 60/100, Training with Subject 2 as test set.
+2024-03-27 23:42:03,604 - INFO - Subject 2, Epoch 1: Train Loss 0.0011, Test Loss 2.1779, Test Acc 0.6836, Test F1 0.6747
+2024-03-27 23:42:03,613 - INFO - Subject 2: Best Test Acc 0.6836
+2024-03-27 23:42:03,613 - INFO - Epoch 61/100, Training with Subject 2 as test set.
+2024-03-27 23:55:50,884 - INFO - Subject 2, Epoch 1: Train Loss 0.0007, Test Loss 2.2257, Test Acc 0.6962, Test F1 0.6888
+2024-03-27 23:55:50,891 - INFO - Subject 2: Best Test Acc 0.6962
+2024-03-27 23:55:50,892 - INFO - Epoch 62/100, Training with Subject 2 as test set.
+2024-03-28 00:09:19,263 - INFO - Subject 2, Epoch 1: Train Loss 0.0166, Test Loss 2.4975, Test Acc 0.6715, Test F1 0.6595
+2024-03-28 00:09:19,271 - INFO - Subject 2: Best Test Acc 0.6715
+2024-03-28 00:09:19,271 - INFO - Epoch 63/100, Training with Subject 2 as test set.
+2024-03-28 00:22:45,361 - INFO - Subject 2, Epoch 1: Train Loss 0.0007, Test Loss 2.3974, Test Acc 0.6712, Test F1 0.6593
+2024-03-28 00:22:45,370 - INFO - Subject 2: Best Test Acc 0.6712
+2024-03-28 00:22:45,370 - INFO - Epoch 64/100, Training with Subject 2 as test set.
+2024-03-28 00:36:09,485 - INFO - Subject 2, Epoch 1: Train Loss 0.0006, Test Loss 2.1742, Test Acc 0.6732, Test F1 0.6624
+2024-03-28 00:36:09,491 - INFO - Subject 2: Best Test Acc 0.6732
+2024-03-28 00:36:09,491 - INFO - Epoch 65/100, Training with Subject 2 as test set.
+2024-03-28 00:49:32,533 - INFO - Subject 2, Epoch 1: Train Loss 0.0156, Test Loss 2.4080, Test Acc 0.6730, Test F1 0.6608
+2024-03-28 00:49:32,542 - INFO - Subject 2: Best Test Acc 0.6730
+2024-03-28 00:49:32,542 - INFO - Epoch 66/100, Training with Subject 2 as test set.
+2024-03-28 01:02:54,319 - INFO - Subject 2, Epoch 1: Train Loss 0.0006, Test Loss 2.3446, Test Acc 0.6747, Test F1 0.6616
+2024-03-28 01:02:54,326 - INFO - Subject 2: Best Test Acc 0.6747
+2024-03-28 01:02:54,327 - INFO - Epoch 67/100, Training with Subject 2 as test set.
+2024-03-28 01:16:18,035 - INFO - Subject 2, Epoch 1: Train Loss 0.0005, Test Loss 1.7067, Test Acc 0.7062, Test F1 0.6994
+2024-03-28 01:16:18,044 - INFO - Subject 2: Best Test Acc 0.7062
+2024-03-28 01:16:18,044 - INFO - Epoch 68/100, Training with Subject 2 as test set.
+2024-03-28 01:29:42,683 - INFO - Subject 2, Epoch 1: Train Loss 0.0243, Test Loss 2.1259, Test Acc 0.6836, Test F1 0.6768
+2024-03-28 01:29:42,691 - INFO - Subject 2: Best Test Acc 0.6836
+2024-03-28 01:29:42,691 - INFO - Epoch 69/100, Training with Subject 2 as test set.
+2024-03-28 01:43:03,946 - INFO - Subject 2, Epoch 1: Train Loss 0.0006, Test Loss 1.9986, Test Acc 0.6971, Test F1 0.6919
+2024-03-28 01:43:03,959 - INFO - Subject 2: Best Test Acc 0.6971
+2024-03-28 01:43:03,959 - INFO - Epoch 70/100, Training with Subject 2 as test set.
+2024-03-28 01:56:23,885 - INFO - Subject 2, Epoch 1: Train Loss 0.0088, Test Loss 2.7976, Test Acc 0.6232, Test F1 0.6013
+2024-03-28 01:56:23,891 - INFO - Subject 2: Best Test Acc 0.6232
+2024-03-28 01:56:23,892 - INFO - Epoch 71/100, Training with Subject 2 as test set.
+2024-03-28 02:09:44,539 - INFO - Subject 2, Epoch 1: Train Loss 0.0073, Test Loss 2.1600, Test Acc 0.6921, Test F1 0.6843
+2024-03-28 02:09:44,546 - INFO - Subject 2: Best Test Acc 0.6921
+2024-03-28 02:09:44,548 - INFO - Epoch 72/100, Training with Subject 2 as test set.
+2024-03-28 02:23:07,397 - INFO - Subject 2, Epoch 1: Train Loss 0.0005, Test Loss 2.3659, Test Acc 0.6771, Test F1 0.6646
+2024-03-28 02:23:07,407 - INFO - Subject 2: Best Test Acc 0.6771
+2024-03-28 02:23:07,407 - INFO - Epoch 73/100, Training with Subject 2 as test set.
+2024-03-28 02:36:29,765 - INFO - Subject 2, Epoch 1: Train Loss 0.0004, Test Loss 2.1160, Test Acc 0.6927, Test F1 0.6826
+2024-03-28 02:36:29,774 - INFO - Subject 2: Best Test Acc 0.6927
+2024-03-28 02:36:29,774 - INFO - Epoch 74/100, Training with Subject 2 as test set.
+2024-03-28 02:49:50,946 - INFO - Subject 2, Epoch 1: Train Loss 0.0142, Test Loss 3.2570, Test Acc 0.6137, Test F1 0.6037
+2024-03-28 02:49:50,953 - INFO - Subject 2: Best Test Acc 0.6137
+2024-03-28 02:49:50,953 - INFO - Epoch 75/100, Training with Subject 2 as test set.
+2024-03-28 03:03:11,441 - INFO - Subject 2, Epoch 1: Train Loss 0.0004, Test Loss 2.7450, Test Acc 0.6544, Test F1 0.6493
+2024-03-28 03:03:11,451 - INFO - Subject 2: Best Test Acc 0.6544
+2024-03-28 03:03:11,454 - INFO - Epoch 76/100, Training with Subject 2 as test set.
+2024-03-28 03:16:33,852 - INFO - Subject 2, Epoch 1: Train Loss 0.0003, Test Loss 2.6368, Test Acc 0.6553, Test F1 0.6469
+2024-03-28 03:16:33,861 - INFO - Subject 2: Best Test Acc 0.6553
+2024-03-28 03:16:33,861 - INFO - Epoch 77/100, Training with Subject 2 as test set.
+2024-03-28 03:29:58,708 - INFO - Subject 2, Epoch 1: Train Loss 0.0045, Test Loss 2.0534, Test Acc 0.6809, Test F1 0.6715
+2024-03-28 03:29:58,717 - INFO - Subject 2: Best Test Acc 0.6809
+2024-03-28 03:29:58,718 - INFO - Epoch 78/100, Training with Subject 2 as test set.
+2024-03-28 03:43:21,648 - INFO - Subject 2, Epoch 1: Train Loss 0.0003, Test Loss 2.2436, Test Acc 0.6750, Test F1 0.6643
+2024-03-28 03:43:21,657 - INFO - Subject 2: Best Test Acc 0.6750
+2024-03-28 03:43:21,657 - INFO - Epoch 79/100, Training with Subject 2 as test set.
+2024-03-28 03:57:28,520 - INFO - Subject 2, Epoch 1: Train Loss 0.0003, Test Loss 2.4039, Test Acc 0.6556, Test F1 0.6454
+2024-03-28 03:57:28,529 - INFO - Subject 2: Best Test Acc 0.6556
+2024-03-28 03:57:28,530 - INFO - Epoch 80/100, Training with Subject 2 as test set.
+2024-03-28 04:10:50,192 - INFO - Subject 2, Epoch 1: Train Loss 0.0091, Test Loss 2.5261, Test Acc 0.6520, Test F1 0.6500
+2024-03-28 04:10:50,202 - INFO - Subject 2: Best Test Acc 0.6520
+2024-03-28 04:10:50,203 - INFO - Epoch 81/100, Training with Subject 2 as test set.
+2024-03-28 04:24:15,447 - INFO - Subject 2, Epoch 1: Train Loss 0.0003, Test Loss 2.4735, Test Acc 0.6317, Test F1 0.6257
+2024-03-28 04:24:15,457 - INFO - Subject 2: Best Test Acc 0.6317
+2024-03-28 04:24:15,458 - INFO - Epoch 82/100, Training with Subject 2 as test set.
+2024-03-28 04:37:40,665 - INFO - Subject 2, Epoch 1: Train Loss 0.0003, Test Loss 2.2731, Test Acc 0.6411, Test F1 0.6358
+2024-03-28 04:37:40,674 - INFO - Subject 2: Best Test Acc 0.6411
+2024-03-28 04:37:40,674 - INFO - Epoch 83/100, Training with Subject 2 as test set.
+2024-03-28 04:51:02,768 - INFO - Subject 2, Epoch 1: Train Loss 0.0114, Test Loss 2.7913, Test Acc 0.6526, Test F1 0.6468
+2024-03-28 04:51:02,777 - INFO - Subject 2: Best Test Acc 0.6526
+2024-03-28 04:51:02,777 - INFO - Epoch 84/100, Training with Subject 2 as test set.
+2024-03-28 05:04:24,994 - INFO - Subject 2, Epoch 1: Train Loss 0.0004, Test Loss 2.8514, Test Acc 0.6476, Test F1 0.6398
+2024-03-28 05:04:25,001 - INFO - Subject 2: Best Test Acc 0.6476
+2024-03-28 05:04:25,002 - INFO - Epoch 85/100, Training with Subject 2 as test set.
+2024-03-28 05:17:49,621 - INFO - Subject 2, Epoch 1: Train Loss 0.0003, Test Loss 2.5254, Test Acc 0.6674, Test F1 0.6586
+2024-03-28 05:17:49,630 - INFO - Subject 2: Best Test Acc 0.6674
+2024-03-28 05:17:49,630 - INFO - Epoch 86/100, Training with Subject 2 as test set.
+2024-03-28 05:31:11,964 - INFO - Subject 2, Epoch 1: Train Loss 0.0002, Test Loss 2.4574, Test Acc 0.6691, Test F1 0.6601
+2024-03-28 05:31:11,980 - INFO - Subject 2: Best Test Acc 0.6691
+2024-03-28 05:31:11,981 - INFO - Epoch 87/100, Training with Subject 2 as test set.
+2024-03-28 05:44:33,859 - INFO - Subject 2, Epoch 1: Train Loss 0.0045, Test Loss 2.9052, Test Acc 0.6573, Test F1 0.6490
+2024-03-28 05:44:33,868 - INFO - Subject 2: Best Test Acc 0.6573
+2024-03-28 05:44:33,868 - INFO - Epoch 88/100, Training with Subject 2 as test set.
+2024-03-28 05:57:57,133 - INFO - Subject 2, Epoch 1: Train Loss 0.0003, Test Loss 2.6716, Test Acc 0.6615, Test F1 0.6526
+2024-03-28 05:57:57,142 - INFO - Subject 2: Best Test Acc 0.6615
+2024-03-28 05:57:57,142 - INFO - Epoch 89/100, Training with Subject 2 as test set.
+2024-03-28 06:11:19,911 - INFO - Subject 2, Epoch 1: Train Loss 0.0002, Test Loss 2.5312, Test Acc 0.6712, Test F1 0.6605
+2024-03-28 06:11:19,919 - INFO - Subject 2: Best Test Acc 0.6712
+2024-03-28 06:11:19,920 - INFO - Epoch 90/100, Training with Subject 2 as test set.
+2024-03-28 06:24:45,090 - INFO - Subject 2, Epoch 1: Train Loss 0.0002, Test Loss 2.4830, Test Acc 0.6650, Test F1 0.6563
+2024-03-28 06:24:45,097 - INFO - Subject 2: Best Test Acc 0.6650
+2024-03-28 06:24:45,097 - INFO - Epoch 91/100, Training with Subject 2 as test set.
+2024-03-28 06:38:07,472 - INFO - Subject 2, Epoch 1: Train Loss 0.0002, Test Loss 2.2657, Test Acc 0.6800, Test F1 0.6693
+2024-03-28 06:38:07,479 - INFO - Subject 2: Best Test Acc 0.6800
+2024-03-28 06:38:07,479 - INFO - Epoch 92/100, Training with Subject 2 as test set.
+2024-03-28 06:51:29,503 - INFO - Subject 2, Epoch 1: Train Loss 0.0040, Test Loss 2.2267, Test Acc 0.7115, Test F1 0.7051
+2024-03-28 06:51:29,516 - INFO - Subject 2: Best Test Acc 0.7115
+2024-03-28 06:51:29,517 - INFO - Epoch 93/100, Training with Subject 2 as test set.
+2024-03-28 07:04:52,471 - INFO - Subject 2, Epoch 1: Train Loss 0.0002, Test Loss 2.1126, Test Acc 0.7118, Test F1 0.7063
+2024-03-28 07:04:52,479 - INFO - Subject 2: Best Test Acc 0.7118
+2024-03-28 07:04:52,480 - INFO - Epoch 94/100, Training with Subject 2 as test set.
+2024-03-28 07:18:17,935 - INFO - Subject 2, Epoch 1: Train Loss 0.0002, Test Loss 2.1291, Test Acc 0.7009, Test F1 0.6949
+2024-03-28 07:18:17,943 - INFO - Subject 2: Best Test Acc 0.7009
+2024-03-28 07:18:17,944 - INFO - Epoch 95/100, Training with Subject 2 as test set.
+2024-03-28 07:31:39,618 - INFO - Subject 2, Epoch 1: Train Loss 0.0001, Test Loss 1.9700, Test Acc 0.7077, Test F1 0.7017
+2024-03-28 07:31:39,626 - INFO - Subject 2: Best Test Acc 0.7077
+2024-03-28 07:31:39,626 - INFO - Epoch 96/100, Training with Subject 2 as test set.
+2024-03-28 07:45:01,680 - INFO - Subject 2, Epoch 1: Train Loss 0.0018, Test Loss 1.6052, Test Acc 0.7575, Test F1 0.7583
+2024-03-28 07:45:01,687 - INFO - Subject 2: Best Test Acc 0.7575
+2024-03-28 07:45:01,687 - INFO - Epoch 97/100, Training with Subject 2 as test set.
+2024-03-28 07:58:23,617 - INFO - Subject 2, Epoch 1: Train Loss 0.0002, Test Loss 1.9098, Test Acc 0.7148, Test F1 0.7126
+2024-03-28 07:58:23,623 - INFO - Subject 2: Best Test Acc 0.7148
+2024-03-28 07:58:23,623 - INFO - Epoch 98/100, Training with Subject 2 as test set.
+2024-03-28 08:11:47,442 - INFO - Subject 2, Epoch 1: Train Loss 0.0001, Test Loss 2.0615, Test Acc 0.7033, Test F1 0.6986
+2024-03-28 08:11:47,451 - INFO - Subject 2: Best Test Acc 0.7033
+2024-03-28 08:11:47,451 - INFO - Epoch 99/100, Training with Subject 2 as test set.
+2024-03-28 08:25:13,696 - INFO - Subject 2, Epoch 1: Train Loss 0.0001, Test Loss 2.2360, Test Acc 0.6827, Test F1 0.6755
+2024-03-28 08:25:13,705 - INFO - Subject 2: Best Test Acc 0.6827
+2024-03-28 08:25:13,705 - INFO - Epoch 100/100, Training with Subject 2 as test set.
+2024-03-28 08:38:36,685 - INFO - Subject 2, Epoch 1: Train Loss 0.0001, Test Loss 2.5347, Test Acc 0.6671, Test F1 0.6579
+2024-03-28 08:38:36,692 - INFO - Subject 2: Best Test Acc 0.6671
+2024-03-28 08:38:36,692 - INFO - 
+Processing Subject 3 as test set.
+2024-03-28 08:38:41,565 - INFO - Training set size: 47516, Test set size: 3394
+2024-03-28 08:38:41,565 - INFO - Epoch 1/100, Training with Subject 3 as test set.
+2024-03-28 08:52:05,756 - INFO - Subject 3, Epoch 1: Train Loss 0.0069, Test Loss 0.0033, Test Acc 1.0000, Test F1 1.0000
+2024-03-28 08:52:05,764 - INFO - Subject 3: Best Test Acc 1.0000
+2024-03-28 08:52:05,765 - INFO - Epoch 2/100, Training with Subject 3 as test set.
+2024-03-28 09:05:32,903 - INFO - Subject 3, Epoch 1: Train Loss 0.0011, Test Loss 0.0041, Test Acc 1.0000, Test F1 1.0000
+2024-03-28 09:05:32,957 - INFO - Subject 3: Best Test Acc 1.0000
+2024-03-28 09:05:32,958 - INFO - Epoch 3/100, Training with Subject 3 as test set.
+2024-03-28 09:18:58,914 - INFO - Subject 3, Epoch 1: Train Loss 0.0008, Test Loss 0.0106, Test Acc 0.9959, Test F1 0.9959
+2024-03-28 09:18:58,922 - INFO - Subject 3: Best Test Acc 0.9959
+2024-03-28 09:18:58,922 - INFO - Epoch 4/100, Training with Subject 3 as test set.
+2024-03-28 09:32:24,055 - INFO - Subject 3, Epoch 1: Train Loss 0.0009, Test Loss 0.0226, Test Acc 0.9882, Test F1 0.9882
+2024-03-28 09:32:24,062 - INFO - Subject 3: Best Test Acc 0.9882
+2024-03-28 09:32:24,062 - INFO - Epoch 5/100, Training with Subject 3 as test set.
+2024-03-28 09:45:47,655 - INFO - Subject 3, Epoch 1: Train Loss 0.0007, Test Loss 0.0361, Test Acc 0.9803, Test F1 0.9802
+2024-03-28 09:45:47,663 - INFO - Subject 3: Best Test Acc 0.9803
+2024-03-28 09:45:47,663 - INFO - Epoch 6/100, Training with Subject 3 as test set.
+2024-03-28 09:59:11,590 - INFO - Subject 3, Epoch 1: Train Loss 0.0004, Test Loss 0.0456, Test Acc 0.9744, Test F1 0.9742
+2024-03-28 09:59:11,598 - INFO - Subject 3: Best Test Acc 0.9744
+2024-03-28 09:59:11,598 - INFO - Epoch 7/100, Training with Subject 3 as test set.
+2024-03-28 10:12:35,451 - INFO - Subject 3, Epoch 1: Train Loss 0.0003, Test Loss 0.0361, Test Acc 0.9800, Test F1 0.9799
+2024-03-28 10:12:35,458 - INFO - Subject 3: Best Test Acc 0.9800
+2024-03-28 10:12:35,459 - INFO - Epoch 8/100, Training with Subject 3 as test set.
+2024-03-28 10:26:01,723 - INFO - Subject 3, Epoch 1: Train Loss 0.0011, Test Loss 0.0317, Test Acc 0.9850, Test F1 0.9850
+2024-03-28 10:26:01,734 - INFO - Subject 3: Best Test Acc 0.9850
+2024-03-28 10:26:01,734 - INFO - Epoch 9/100, Training with Subject 3 as test set.
+2024-03-28 10:39:28,096 - INFO - Subject 3, Epoch 1: Train Loss 0.0002, Test Loss 0.0374, Test Acc 0.9797, Test F1 0.9796
+2024-03-28 10:39:28,102 - INFO - Subject 3: Best Test Acc 0.9797
+2024-03-28 10:39:28,103 - INFO - Epoch 10/100, Training with Subject 3 as test set.
+2024-03-28 10:52:53,202 - INFO - Subject 3, Epoch 1: Train Loss 0.0002, Test Loss 0.0294, Test Acc 0.9829, Test F1 0.9829
+2024-03-28 10:52:53,209 - INFO - Subject 3: Best Test Acc 0.9829
+2024-03-28 10:52:53,209 - INFO - Epoch 11/100, Training with Subject 3 as test set.
+2024-03-28 11:06:32,061 - INFO - Subject 3, Epoch 1: Train Loss 0.0005, Test Loss 0.0431, Test Acc 0.9806, Test F1 0.9805
+2024-03-28 11:06:32,099 - INFO - Subject 3: Best Test Acc 0.9806
+2024-03-28 11:06:32,099 - INFO - Epoch 12/100, Training with Subject 3 as test set.
+2024-03-28 11:20:02,132 - INFO - Subject 3, Epoch 1: Train Loss 0.0002, Test Loss 0.0230, Test Acc 0.9879, Test F1 0.9879
+2024-03-28 11:20:02,142 - INFO - Subject 3: Best Test Acc 0.9879
+2024-03-28 11:20:02,143 - INFO - Epoch 13/100, Training with Subject 3 as test set.
+2024-03-28 11:33:28,916 - INFO - Subject 3, Epoch 1: Train Loss 0.0002, Test Loss 0.0420, Test Acc 0.9767, Test F1 0.9767
+2024-03-28 11:33:28,924 - INFO - Subject 3: Best Test Acc 0.9767
+2024-03-28 11:33:28,925 - INFO - Epoch 14/100, Training with Subject 3 as test set.
+2024-03-28 11:46:56,344 - INFO - Subject 3, Epoch 1: Train Loss 0.0002, Test Loss 0.0305, Test Acc 0.9817, Test F1 0.9817
+2024-03-28 11:46:56,351 - INFO - Subject 3: Best Test Acc 0.9817
+2024-03-28 11:46:56,352 - INFO - Epoch 15/100, Training with Subject 3 as test set.
+2024-03-28 12:00:27,246 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0161, Test Acc 0.9926, Test F1 0.9926
+2024-03-28 12:00:27,254 - INFO - Subject 3: Best Test Acc 0.9926
+2024-03-28 12:00:27,254 - INFO - Epoch 16/100, Training with Subject 3 as test set.
+2024-03-28 12:13:54,923 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0166, Test Acc 0.9926, Test F1 0.9926
+2024-03-28 12:13:54,933 - INFO - Subject 3: Best Test Acc 0.9926
+2024-03-28 12:13:54,933 - INFO - Epoch 17/100, Training with Subject 3 as test set.
+2024-03-28 12:27:35,351 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0356, Test Acc 0.9788, Test F1 0.9787
+2024-03-28 12:27:35,372 - INFO - Subject 3: Best Test Acc 0.9788
+2024-03-28 12:27:35,372 - INFO - Epoch 18/100, Training with Subject 3 as test set.
+2024-03-28 12:41:33,827 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0197, Test Acc 0.9882, Test F1 0.9882
+2024-03-28 12:41:33,835 - INFO - Subject 3: Best Test Acc 0.9882
+2024-03-28 12:41:33,836 - INFO - Epoch 19/100, Training with Subject 3 as test set.
+2024-03-28 12:54:59,816 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0202, Test Acc 0.9885, Test F1 0.9885
+2024-03-28 12:54:59,829 - INFO - Subject 3: Best Test Acc 0.9885
+2024-03-28 12:54:59,829 - INFO - Epoch 20/100, Training with Subject 3 as test set.
+2024-03-28 13:08:50,821 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0176, Test Acc 0.9915, Test F1 0.9915
+2024-03-28 13:08:50,829 - INFO - Subject 3: Best Test Acc 0.9915
+2024-03-28 13:08:50,830 - INFO - Epoch 21/100, Training with Subject 3 as test set.
+2024-03-28 13:23:10,561 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0164, Test Acc 0.9929, Test F1 0.9929
+2024-03-28 13:23:10,570 - INFO - Subject 3: Best Test Acc 0.9929
+2024-03-28 13:23:10,571 - INFO - Epoch 22/100, Training with Subject 3 as test set.
+2024-03-28 13:37:42,803 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0216, Test Acc 0.9856, Test F1 0.9855
+2024-03-28 13:37:42,823 - INFO - Subject 3: Best Test Acc 0.9856
+2024-03-28 13:37:42,824 - INFO - Epoch 23/100, Training with Subject 3 as test set.
+2024-03-28 13:52:03,336 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0236, Test Acc 0.9847, Test F1 0.9847
+2024-03-28 13:52:03,344 - INFO - Subject 3: Best Test Acc 0.9847
+2024-03-28 13:52:03,344 - INFO - Epoch 24/100, Training with Subject 3 as test set.
+2024-03-28 14:06:22,903 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0233, Test Acc 0.9847, Test F1 0.9847
+2024-03-28 14:06:22,916 - INFO - Subject 3: Best Test Acc 0.9847
+2024-03-28 14:06:22,916 - INFO - Epoch 25/100, Training with Subject 3 as test set.
+2024-03-28 14:19:44,025 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0254, Test Acc 0.9838, Test F1 0.9838
+2024-03-28 14:19:44,079 - INFO - Subject 3: Best Test Acc 0.9838
+2024-03-28 14:19:44,080 - INFO - Epoch 26/100, Training with Subject 3 as test set.
+2024-03-28 14:33:21,342 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0253, Test Acc 0.9841, Test F1 0.9841
+2024-03-28 14:33:21,352 - INFO - Subject 3: Best Test Acc 0.9841
+2024-03-28 14:33:21,352 - INFO - Epoch 27/100, Training with Subject 3 as test set.
+2024-03-28 14:46:59,862 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0222, Test Acc 0.9850, Test F1 0.9850
+2024-03-28 14:46:59,873 - INFO - Subject 3: Best Test Acc 0.9850
+2024-03-28 14:46:59,873 - INFO - Epoch 28/100, Training with Subject 3 as test set.
+2024-03-28 15:00:32,214 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0173, Test Acc 0.9926, Test F1 0.9926
+2024-03-28 15:00:32,225 - INFO - Subject 3: Best Test Acc 0.9926
+2024-03-28 15:00:32,226 - INFO - Epoch 29/100, Training with Subject 3 as test set.
+2024-03-28 15:14:04,955 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0223, Test Acc 0.9847, Test F1 0.9847
+2024-03-28 15:14:04,962 - INFO - Subject 3: Best Test Acc 0.9847
+2024-03-28 15:14:04,962 - INFO - Epoch 30/100, Training with Subject 3 as test set.
+2024-03-28 15:27:19,170 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0222, Test Acc 0.9850, Test F1 0.9850
+2024-03-28 15:27:19,179 - INFO - Subject 3: Best Test Acc 0.9850
+2024-03-28 15:27:19,179 - INFO - Epoch 31/100, Training with Subject 3 as test set.
+2024-03-28 15:40:42,690 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0199, Test Acc 0.9885, Test F1 0.9885
+2024-03-28 15:40:42,698 - INFO - Subject 3: Best Test Acc 0.9885
+2024-03-28 15:40:42,699 - INFO - Epoch 32/100, Training with Subject 3 as test set.
+2024-03-28 15:54:19,384 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0204, Test Acc 0.9879, Test F1 0.9879
+2024-03-28 15:54:19,392 - INFO - Subject 3: Best Test Acc 0.9879
+2024-03-28 15:54:19,392 - INFO - Epoch 33/100, Training with Subject 3 as test set.
+2024-03-28 16:07:54,168 - INFO - Subject 3, Epoch 1: Train Loss 0.0001, Test Loss 0.0203, Test Acc 0.9879, Test F1 0.9879
+2024-03-28 16:07:54,176 - INFO - Subject 3: Best Test Acc 0.9879
+2024-03-28 16:07:54,178 - INFO - Epoch 34/100, Training with Subject 3 as test set.
+2024-03-28 16:21:33,505 - INFO - Subject 3, Epoch 1: Train Loss 0.0554, Test Loss 0.0948, Test Acc 0.9705, Test F1 0.9704
+2024-03-28 16:21:33,512 - INFO - Subject 3: Best Test Acc 0.9705
+2024-03-28 16:21:33,512 - INFO - Epoch 35/100, Training with Subject 3 as test set.
+2024-03-28 16:35:09,353 - INFO - Subject 3, Epoch 1: Train Loss 0.0003, Test Loss 0.0573, Test Acc 0.9800, Test F1 0.9799
+2024-03-28 16:35:09,362 - INFO - Subject 3: Best Test Acc 0.9800
+2024-03-28 16:35:09,362 - INFO - Epoch 36/100, Training with Subject 3 as test set.
+2024-03-28 16:48:51,623 - INFO - Subject 3, Epoch 1: Train Loss 0.0002, Test Loss 0.0494, Test Acc 0.9797, Test F1 0.9796
+2024-03-28 16:48:51,633 - INFO - Subject 3: Best Test Acc 0.9797
+2024-03-28 16:48:51,634 - INFO - Epoch 37/100, Training with Subject 3 as test set.
+2024-03-28 17:02:32,449 - INFO - Subject 3, Epoch 1: Train Loss 0.0828, Test Loss 0.1815, Test Acc 0.9449, Test F1 0.9448
+2024-03-28 17:02:32,458 - INFO - Subject 3: Best Test Acc 0.9449
+2024-03-28 17:02:32,458 - INFO - Epoch 38/100, Training with Subject 3 as test set.
+2024-03-28 17:16:16,579 - INFO - Subject 3, Epoch 1: Train Loss 0.0237, Test Loss 0.1056, Test Acc 0.9823, Test F1 0.9823
+2024-03-28 17:16:16,586 - INFO - Subject 3: Best Test Acc 0.9823
+2024-03-28 17:16:16,587 - INFO - Epoch 39/100, Training with Subject 3 as test set.
+2024-03-28 17:30:05,392 - INFO - Subject 3, Epoch 1: Train Loss 0.0006, Test Loss 0.0950, Test Acc 0.9862, Test F1 0.9862
+2024-03-28 17:30:05,411 - INFO - Subject 3: Best Test Acc 0.9862
+2024-03-28 17:30:05,412 - INFO - Epoch 40/100, Training with Subject 3 as test set.
+2024-03-28 17:43:43,894 - INFO - Subject 3, Epoch 1: Train Loss 0.0661, Test Loss 0.0965, Test Acc 0.9576, Test F1 0.9577
+2024-03-28 17:43:43,902 - INFO - Subject 3: Best Test Acc 0.9576
+2024-03-28 17:43:43,903 - INFO - Epoch 41/100, Training with Subject 3 as test set.
+2024-03-28 17:57:37,486 - INFO - Subject 3, Epoch 1: Train Loss 0.0160, Test Loss 0.3949, Test Acc 0.8188, Test F1 0.8157
+2024-03-28 17:57:37,506 - INFO - Subject 3: Best Test Acc 0.8188
+2024-03-28 17:57:37,507 - INFO - Epoch 42/100, Training with Subject 3 as test set.
+2024-03-28 18:11:09,552 - INFO - Subject 3, Epoch 1: Train Loss 0.0198, Test Loss 0.1009, Test Acc 0.9558, Test F1 0.9557
+2024-03-28 18:11:09,576 - INFO - Subject 3: Best Test Acc 0.9558
+2024-03-28 18:11:09,577 - INFO - Epoch 43/100, Training with Subject 3 as test set.
+2024-03-28 18:25:17,376 - INFO - Subject 3, Epoch 1: Train Loss 0.0009, Test Loss 0.0802, Test Acc 0.9750, Test F1 0.9749
+2024-03-28 18:25:17,384 - INFO - Subject 3: Best Test Acc 0.9750
+2024-03-28 18:25:17,385 - INFO - Epoch 44/100, Training with Subject 3 as test set.
+2024-03-28 18:39:49,698 - INFO - Subject 3, Epoch 1: Train Loss 0.0556, Test Loss 0.1828, Test Acc 0.9260, Test F1 0.9268
+2024-03-28 18:39:49,707 - INFO - Subject 3: Best Test Acc 0.9260
+2024-03-28 18:39:49,707 - INFO - Epoch 45/100, Training with Subject 3 as test set.
+2024-03-28 18:54:05,729 - INFO - Subject 3, Epoch 1: Train Loss 0.0031, Test Loss 0.0498, Test Acc 0.9873, Test F1 0.9873
+2024-03-28 18:54:05,736 - INFO - Subject 3: Best Test Acc 0.9873
+2024-03-28 18:54:05,737 - INFO - Epoch 46/100, Training with Subject 3 as test set.
+2024-03-28 19:08:31,598 - INFO - Subject 3, Epoch 1: Train Loss 0.0412, Test Loss 0.1060, Test Acc 0.9720, Test F1 0.9720
+2024-03-28 19:08:31,607 - INFO - Subject 3: Best Test Acc 0.9720
+2024-03-28 19:08:31,608 - INFO - Epoch 47/100, Training with Subject 3 as test set.
+2024-03-28 19:23:17,703 - INFO - Subject 3, Epoch 1: Train Loss 0.0012, Test Loss 0.1058, Test Acc 0.9617, Test F1 0.9617
+2024-03-28 19:23:17,712 - INFO - Subject 3: Best Test Acc 0.9617
+2024-03-28 19:23:17,713 - INFO - Epoch 48/100, Training with Subject 3 as test set.
+2024-03-28 19:38:03,543 - INFO - Subject 3, Epoch 1: Train Loss 0.0430, Test Loss 0.1237, Test Acc 0.9682, Test F1 0.9681
+2024-03-28 19:38:03,553 - INFO - Subject 3: Best Test Acc 0.9682
+2024-03-28 19:38:03,554 - INFO - Epoch 49/100, Training with Subject 3 as test set.
+2024-03-28 19:52:59,323 - INFO - Subject 3, Epoch 1: Train Loss 0.0011, Test Loss 0.1220, Test Acc 0.9614, Test F1 0.9615
+2024-03-28 19:52:59,331 - INFO - Subject 3: Best Test Acc 0.9614
+2024-03-28 19:52:59,332 - INFO - Epoch 50/100, Training with Subject 3 as test set.
+2024-03-28 20:07:56,441 - INFO - Subject 3, Epoch 1: Train Loss 0.0579, Test Loss 0.1999, Test Acc 0.9228, Test F1 0.9232
+2024-03-28 20:07:56,451 - INFO - Subject 3: Best Test Acc 0.9228
+2024-03-28 20:07:56,452 - INFO - Epoch 51/100, Training with Subject 3 as test set.
+2024-03-28 20:21:21,103 - INFO - Subject 3, Epoch 1: Train Loss 0.0012, Test Loss 0.1587, Test Acc 0.9349, Test F1 0.9352
+2024-03-28 20:21:21,111 - INFO - Subject 3: Best Test Acc 0.9349
+2024-03-28 20:21:21,112 - INFO - Epoch 52/100, Training with Subject 3 as test set.
+2024-03-28 20:36:01,450 - INFO - Subject 3, Epoch 1: Train Loss 0.0339, Test Loss 0.2020, Test Acc 0.9045, Test F1 0.9056
+2024-03-28 20:36:01,465 - INFO - Subject 3: Best Test Acc 0.9045
+2024-03-28 20:36:01,466 - INFO - Epoch 53/100, Training with Subject 3 as test set.
+2024-03-28 20:50:22,466 - INFO - Subject 3, Epoch 1: Train Loss 0.0011, Test Loss 0.1455, Test Acc 0.9299, Test F1 0.9303
+2024-03-28 20:50:22,473 - INFO - Subject 3: Best Test Acc 0.9299
+2024-03-28 20:50:22,474 - INFO - Epoch 54/100, Training with Subject 3 as test set.
+2024-03-28 21:05:15,507 - INFO - Subject 3, Epoch 1: Train Loss 0.0486, Test Loss 0.3374, Test Acc 0.8848, Test F1 0.8851
+2024-03-28 21:05:15,515 - INFO - Subject 3: Best Test Acc 0.8848
+2024-03-28 21:05:15,516 - INFO - Epoch 55/100, Training with Subject 3 as test set.
+2024-03-28 21:20:07,739 - INFO - Subject 3, Epoch 1: Train Loss 0.0011, Test Loss 0.3055, Test Acc 0.8686, Test F1 0.8694
+2024-03-28 21:20:07,747 - INFO - Subject 3: Best Test Acc 0.8686
+2024-03-28 21:20:07,747 - INFO - Epoch 56/100, Training with Subject 3 as test set.
+2024-03-28 21:35:07,662 - INFO - Subject 3, Epoch 1: Train Loss 0.0302, Test Loss 0.5214, Test Acc 0.8091, Test F1 0.8089
+2024-03-28 21:35:07,676 - INFO - Subject 3: Best Test Acc 0.8091
+2024-03-28 21:35:07,677 - INFO - Epoch 57/100, Training with Subject 3 as test set.
+2024-03-28 21:49:40,499 - INFO - Subject 3, Epoch 1: Train Loss 0.0076, Test Loss 0.3497, Test Acc 0.8683, Test F1 0.8689
+2024-03-28 21:49:40,516 - INFO - Subject 3: Best Test Acc 0.8683
+2024-03-28 21:49:40,518 - INFO - Epoch 58/100, Training with Subject 3 as test set.
+2024-03-28 22:03:58,246 - INFO - Subject 3, Epoch 1: Train Loss 0.0007, Test Loss 0.2878, Test Acc 0.8928, Test F1 0.8936
+2024-03-28 22:03:58,268 - INFO - Subject 3: Best Test Acc 0.8928
+2024-03-28 22:03:58,269 - INFO - Epoch 59/100, Training with Subject 3 as test set.
+2024-03-28 22:18:37,406 - INFO - Subject 3, Epoch 1: Train Loss 0.0291, Test Loss 0.3514, Test Acc 0.8712, Test F1 0.8715
+2024-03-28 22:18:37,437 - INFO - Subject 3: Best Test Acc 0.8712
+2024-03-28 22:18:37,443 - INFO - Epoch 60/100, Training with Subject 3 as test set.
+2024-03-28 22:33:06,803 - INFO - Subject 3, Epoch 1: Train Loss 0.0009, Test Loss 0.1544, Test Acc 0.9364, Test F1 0.9367
+2024-03-28 22:33:06,814 - INFO - Subject 3: Best Test Acc 0.9364
+2024-03-28 22:33:06,815 - INFO - Epoch 61/100, Training with Subject 3 as test set.
+2024-03-28 22:47:17,388 - INFO - Subject 3, Epoch 1: Train Loss 0.0006, Test Loss 0.1664, Test Acc 0.9269, Test F1 0.9277
+2024-03-28 22:47:17,397 - INFO - Subject 3: Best Test Acc 0.9269
+2024-03-28 22:47:17,397 - INFO - Epoch 62/100, Training with Subject 3 as test set.
+2024-03-28 23:01:42,491 - INFO - Subject 3, Epoch 1: Train Loss 0.0454, Test Loss 0.1381, Test Acc 0.9520, Test F1 0.9524
+2024-03-28 23:01:42,500 - INFO - Subject 3: Best Test Acc 0.9520
+2024-03-28 23:01:42,501 - INFO - Epoch 63/100, Training with Subject 3 as test set.
+2024-03-28 23:15:54,354 - INFO - Subject 3, Epoch 1: Train Loss 0.0008, Test Loss 0.1782, Test Acc 0.9384, Test F1 0.9393
+2024-03-28 23:15:54,365 - INFO - Subject 3: Best Test Acc 0.9384
+2024-03-28 23:15:54,366 - INFO - Epoch 64/100, Training with Subject 3 as test set.
+2024-03-28 23:30:22,477 - INFO - Subject 3, Epoch 1: Train Loss 0.0005, Test Loss 0.1741, Test Acc 0.9364, Test F1 0.9373
+2024-03-28 23:30:22,486 - INFO - Subject 3: Best Test Acc 0.9364
+2024-03-28 23:30:22,487 - INFO - Epoch 65/100, Training with Subject 3 as test set.
+2024-03-28 23:44:39,720 - INFO - Subject 3, Epoch 1: Train Loss 0.0335, Test Loss 0.1354, Test Acc 0.9481, Test F1 0.9487
+2024-03-28 23:44:39,729 - INFO - Subject 3: Best Test Acc 0.9481
+2024-03-28 23:44:39,729 - INFO - Epoch 66/100, Training with Subject 3 as test set.
+2024-03-28 23:58:09,666 - INFO - Subject 3, Epoch 1: Train Loss 0.0006, Test Loss 0.1177, Test Acc 0.9561, Test F1 0.9565
+2024-03-28 23:58:09,675 - INFO - Subject 3: Best Test Acc 0.9561
+2024-03-28 23:58:09,675 - INFO - Epoch 67/100, Training with Subject 3 as test set.
+2024-03-29 00:11:35,596 - INFO - Subject 3, Epoch 1: Train Loss 0.0368, Test Loss 0.2242, Test Acc 0.9060, Test F1 0.9041
+2024-03-29 00:11:35,603 - INFO - Subject 3: Best Test Acc 0.9060
+2024-03-29 00:11:35,603 - INFO - Epoch 68/100, Training with Subject 3 as test set.
+2024-03-29 00:24:58,350 - INFO - Subject 3, Epoch 1: Train Loss 0.0010, Test Loss 0.1248, Test Acc 0.9505, Test F1 0.9510
+2024-03-29 00:24:58,358 - INFO - Subject 3: Best Test Acc 0.9505
+2024-03-29 00:24:58,359 - INFO - Epoch 69/100, Training with Subject 3 as test set.
+2024-03-29 00:38:20,772 - INFO - Subject 3, Epoch 1: Train Loss 0.0005, Test Loss 0.1490, Test Acc 0.9423, Test F1 0.9425
+2024-03-29 00:38:20,779 - INFO - Subject 3: Best Test Acc 0.9423
+2024-03-29 00:38:20,780 - INFO - Epoch 70/100, Training with Subject 3 as test set.
+2024-03-29 00:51:41,382 - INFO - Subject 3, Epoch 1: Train Loss 0.0004, Test Loss 0.2273, Test Acc 0.9051, Test F1 0.9057
+2024-03-29 00:51:41,389 - INFO - Subject 3: Best Test Acc 0.9051
+2024-03-29 00:51:41,392 - INFO - Epoch 71/100, Training with Subject 3 as test set.
+2024-03-29 01:05:02,643 - INFO - Subject 3, Epoch 1: Train Loss 0.0312, Test Loss 0.1453, Test Acc 0.9375, Test F1 0.9379
+2024-03-29 01:05:02,650 - INFO - Subject 3: Best Test Acc 0.9375
+2024-03-29 01:05:02,650 - INFO - Epoch 72/100, Training with Subject 3 as test set.
+2024-03-29 01:18:24,841 - INFO - Subject 3, Epoch 1: Train Loss 0.0005, Test Loss 0.1531, Test Acc 0.9405, Test F1 0.9408
+2024-03-29 01:18:24,849 - INFO - Subject 3: Best Test Acc 0.9405
+2024-03-29 01:18:24,849 - INFO - Epoch 73/100, Training with Subject 3 as test set.
+2024-03-29 01:31:42,524 - INFO - Subject 3, Epoch 1: Train Loss 0.0004, Test Loss 0.1367, Test Acc 0.9443, Test F1 0.9445
+2024-03-29 01:31:42,532 - INFO - Subject 3: Best Test Acc 0.9443
+2024-03-29 01:31:42,532 - INFO - Epoch 74/100, Training with Subject 3 as test set.
+2024-03-29 01:45:00,249 - INFO - Subject 3, Epoch 1: Train Loss 0.0319, Test Loss 0.4417, Test Acc 0.8539, Test F1 0.8527
+2024-03-29 01:45:00,256 - INFO - Subject 3: Best Test Acc 0.8539
+2024-03-29 01:45:00,257 - INFO - Epoch 75/100, Training with Subject 3 as test set.
+2024-03-29 01:58:16,226 - INFO - Subject 3, Epoch 1: Train Loss 0.0010, Test Loss 0.3095, Test Acc 0.8939, Test F1 0.8939
+2024-03-29 01:58:16,241 - INFO - Subject 3: Best Test Acc 0.8939
+2024-03-29 01:58:16,241 - INFO - Epoch 76/100, Training with Subject 3 as test set.
+2024-03-29 02:11:34,391 - INFO - Subject 3, Epoch 1: Train Loss 0.0004, Test Loss 0.2948, Test Acc 0.9072, Test F1 0.9072
+2024-03-29 02:11:34,402 - INFO - Subject 3: Best Test Acc 0.9072
+2024-03-29 02:11:34,402 - INFO - Epoch 77/100, Training with Subject 3 as test set.
+2024-03-29 02:24:54,422 - INFO - Subject 3, Epoch 1: Train Loss 0.0321, Test Loss 0.4605, Test Acc 0.8223, Test F1 0.8180
+2024-03-29 02:24:54,429 - INFO - Subject 3: Best Test Acc 0.8223
+2024-03-29 02:24:54,429 - INFO - Epoch 78/100, Training with Subject 3 as test set.
+2024-03-29 02:38:11,760 - INFO - Subject 3, Epoch 1: Train Loss 0.0008, Test Loss 0.4375, Test Acc 0.8465, Test F1 0.8460
+2024-03-29 02:38:11,777 - INFO - Subject 3: Best Test Acc 0.8465
+2024-03-29 02:38:11,778 - INFO - Epoch 79/100, Training with Subject 3 as test set.
+2024-03-29 02:51:27,518 - INFO - Subject 3, Epoch 1: Train Loss 0.0004, Test Loss 0.3653, Test Acc 0.8842, Test F1 0.8840
+2024-03-29 02:51:27,525 - INFO - Subject 3: Best Test Acc 0.8842
+2024-03-29 02:51:27,525 - INFO - Epoch 80/100, Training with Subject 3 as test set.
+2024-03-29 03:04:42,260 - INFO - Subject 3, Epoch 1: Train Loss 0.0003, Test Loss 0.4157, Test Acc 0.8592, Test F1 0.8559
+2024-03-29 03:04:42,267 - INFO - Subject 3: Best Test Acc 0.8592
+2024-03-29 03:04:42,267 - INFO - Epoch 81/100, Training with Subject 3 as test set.
+2024-03-29 03:18:05,691 - INFO - Subject 3, Epoch 1: Train Loss 0.0366, Test Loss 0.2832, Test Acc 0.9228, Test F1 0.9233
+2024-03-29 03:18:05,702 - INFO - Subject 3: Best Test Acc 0.9228
+2024-03-29 03:18:05,702 - INFO - Epoch 82/100, Training with Subject 3 as test set.
+2024-03-29 03:31:20,731 - INFO - Subject 3, Epoch 1: Train Loss 0.0006, Test Loss 0.2971, Test Acc 0.9134, Test F1 0.9143
+2024-03-29 03:31:20,739 - INFO - Subject 3: Best Test Acc 0.9134
+2024-03-29 03:31:20,740 - INFO - Epoch 83/100, Training with Subject 3 as test set.
+2024-03-29 03:44:36,085 - INFO - Subject 3, Epoch 1: Train Loss 0.0003, Test Loss 0.3171, Test Acc 0.8984, Test F1 0.8997
+2024-03-29 03:44:36,092 - INFO - Subject 3: Best Test Acc 0.8984
+2024-03-29 03:44:36,092 - INFO - Epoch 84/100, Training with Subject 3 as test set.
+2024-03-29 03:58:12,908 - INFO - Subject 3, Epoch 1: Train Loss 0.0399, Test Loss 0.3189, Test Acc 0.8630, Test F1 0.8617
+2024-03-29 03:58:12,915 - INFO - Subject 3: Best Test Acc 0.8630
+2024-03-29 03:58:12,916 - INFO - Epoch 85/100, Training with Subject 3 as test set.
+2024-03-29 04:11:25,467 - INFO - Subject 3, Epoch 1: Train Loss 0.0007, Test Loss 0.2649, Test Acc 0.8801, Test F1 0.8800
+2024-03-29 04:11:25,473 - INFO - Subject 3: Best Test Acc 0.8801
+2024-03-29 04:11:25,473 - INFO - Epoch 86/100, Training with Subject 3 as test set.
+2024-03-29 04:24:42,472 - INFO - Subject 3, Epoch 1: Train Loss 0.0308, Test Loss 0.4110, Test Acc 0.8173, Test F1 0.8152
+2024-03-29 04:24:42,478 - INFO - Subject 3: Best Test Acc 0.8173
+2024-03-29 04:24:42,478 - INFO - Epoch 87/100, Training with Subject 3 as test set.
+2024-03-29 04:37:56,243 - INFO - Subject 3, Epoch 1: Train Loss 0.0009, Test Loss 0.3067, Test Acc 0.8942, Test F1 0.8936
+2024-03-29 04:37:56,249 - INFO - Subject 3: Best Test Acc 0.8942
+2024-03-29 04:37:56,249 - INFO - Epoch 88/100, Training with Subject 3 as test set.
+2024-03-29 04:51:12,837 - INFO - Subject 3, Epoch 1: Train Loss 0.0006, Test Loss 0.2691, Test Acc 0.9131, Test F1 0.9134
+2024-03-29 04:51:12,844 - INFO - Subject 3: Best Test Acc 0.9131
+2024-03-29 04:51:12,844 - INFO - Epoch 89/100, Training with Subject 3 as test set.
+2024-03-29 05:04:28,461 - INFO - Subject 3, Epoch 1: Train Loss 0.0255, Test Loss 0.4930, Test Acc 0.8297, Test F1 0.8329
+2024-03-29 05:04:28,468 - INFO - Subject 3: Best Test Acc 0.8297
+2024-03-29 05:04:28,468 - INFO - Epoch 90/100, Training with Subject 3 as test set.
+2024-03-29 05:17:44,815 - INFO - Subject 3, Epoch 1: Train Loss 0.0005, Test Loss 0.4511, Test Acc 0.8141, Test F1 0.8172
+2024-03-29 05:17:44,824 - INFO - Subject 3: Best Test Acc 0.8141
+2024-03-29 05:17:44,824 - INFO - Epoch 91/100, Training with Subject 3 as test set.
+2024-03-29 05:31:01,659 - INFO - Subject 3, Epoch 1: Train Loss 0.0167, Test Loss 0.4761, Test Acc 0.8427, Test F1 0.8446
+2024-03-29 05:31:01,667 - INFO - Subject 3: Best Test Acc 0.8427
+2024-03-29 05:31:01,667 - INFO - Epoch 92/100, Training with Subject 3 as test set.
+2024-03-29 05:44:16,091 - INFO - Subject 3, Epoch 1: Train Loss 0.0006, Test Loss 0.4464, Test Acc 0.8712, Test F1 0.8728
+2024-03-29 05:44:16,098 - INFO - Subject 3: Best Test Acc 0.8712
+2024-03-29 05:44:16,099 - INFO - Epoch 93/100, Training with Subject 3 as test set.
+2024-03-29 05:57:29,822 - INFO - Subject 3, Epoch 1: Train Loss 0.0004, Test Loss 0.3849, Test Acc 0.8651, Test F1 0.8660
+2024-03-29 05:57:29,830 - INFO - Subject 3: Best Test Acc 0.8651
+2024-03-29 05:57:29,831 - INFO - Epoch 94/100, Training with Subject 3 as test set.
+2024-03-29 06:10:43,489 - INFO - Subject 3, Epoch 1: Train Loss 0.0399, Test Loss 0.3716, Test Acc 0.8745, Test F1 0.8753
+2024-03-29 06:10:43,496 - INFO - Subject 3: Best Test Acc 0.8745
+2024-03-29 06:10:43,497 - INFO - Epoch 95/100, Training with Subject 3 as test set.
+2024-03-29 06:24:02,786 - INFO - Subject 3, Epoch 1: Train Loss 0.0186, Test Loss 0.4836, Test Acc 0.9364, Test F1 0.9373
+2024-03-29 06:24:02,793 - INFO - Subject 3: Best Test Acc 0.9364
+2024-03-29 06:24:02,793 - INFO - Epoch 96/100, Training with Subject 3 as test set.
+2024-03-29 06:37:17,897 - INFO - Subject 3, Epoch 1: Train Loss 0.0021, Test Loss 0.3630, Test Acc 0.8810, Test F1 0.8815
+2024-03-29 06:37:17,907 - INFO - Subject 3: Best Test Acc 0.8810
+2024-03-29 06:37:17,908 - INFO - Epoch 97/100, Training with Subject 3 as test set.
+2024-03-29 06:50:33,717 - INFO - Subject 3, Epoch 1: Train Loss 0.0056, Test Loss 0.9701, Test Acc 0.7578, Test F1 0.7560
+2024-03-29 06:50:33,725 - INFO - Subject 3: Best Test Acc 0.7578
+2024-03-29 06:50:33,726 - INFO - Epoch 98/100, Training with Subject 3 as test set.
+2024-03-29 07:03:49,762 - INFO - Subject 3, Epoch 1: Train Loss 0.0120, Test Loss 0.3608, Test Acc 0.8771, Test F1 0.8781
+2024-03-29 07:03:49,769 - INFO - Subject 3: Best Test Acc 0.8771
+2024-03-29 07:03:49,769 - INFO - Epoch 99/100, Training with Subject 3 as test set.
+2024-03-29 07:17:05,372 - INFO - Subject 3, Epoch 1: Train Loss 0.0004, Test Loss 0.2872, Test Acc 0.8916, Test F1 0.8924
+2024-03-29 07:17:05,379 - INFO - Subject 3: Best Test Acc 0.8916
+2024-03-29 07:17:05,379 - INFO - Epoch 100/100, Training with Subject 3 as test set.
+2024-03-29 07:30:22,699 - INFO - Subject 3, Epoch 1: Train Loss 0.0003, Test Loss 0.2544, Test Acc 0.8957, Test F1 0.8968
+2024-03-29 07:30:22,706 - INFO - Subject 3: Best Test Acc 0.8957
+2024-03-29 07:30:22,706 - INFO - 
+Processing Subject 4 as test set.
+2024-03-29 07:30:25,611 - INFO - Training set size: 47516, Test set size: 3394
+2024-03-29 07:30:25,611 - INFO - Epoch 1/100, Training with Subject 4 as test set.
+2024-03-29 07:43:42,818 - INFO - Subject 4, Epoch 1: Train Loss 0.0278, Test Loss 0.0066, Test Acc 1.0000, Test F1 1.0000
+2024-03-29 07:43:42,874 - INFO - Subject 4: Best Test Acc 1.0000
+2024-03-29 07:43:42,875 - INFO - Epoch 2/100, Training with Subject 4 as test set.
+2024-03-29 07:57:01,362 - INFO - Subject 4, Epoch 1: Train Loss 0.0129, Test Loss 0.0030, Test Acc 1.0000, Test F1 1.0000
+2024-03-29 07:57:01,417 - INFO - Subject 4: Best Test Acc 1.0000
+2024-03-29 07:57:01,418 - INFO - Epoch 3/100, Training with Subject 4 as test set.
+2024-03-29 08:10:21,884 - INFO - Subject 4, Epoch 1: Train Loss 0.0006, Test Loss 0.0068, Test Acc 1.0000, Test F1 1.0000
+2024-03-29 08:10:21,900 - INFO - Subject 4: Best Test Acc 1.0000
+2024-03-29 08:10:21,901 - INFO - Epoch 4/100, Training with Subject 4 as test set.
+2024-03-29 08:23:44,080 - INFO - Subject 4, Epoch 1: Train Loss 0.0262, Test Loss 0.0267, Test Acc 0.9944, Test F1 0.9944
+2024-03-29 08:23:44,087 - INFO - Subject 4: Best Test Acc 0.9944
+2024-03-29 08:23:44,087 - INFO - Epoch 5/100, Training with Subject 4 as test set.
+2024-03-29 08:37:06,869 - INFO - Subject 4, Epoch 1: Train Loss 0.0006, Test Loss 0.0094, Test Acc 0.9988, Test F1 0.9988
+2024-03-29 08:37:06,877 - INFO - Subject 4: Best Test Acc 0.9988
+2024-03-29 08:37:06,877 - INFO - Epoch 6/100, Training with Subject 4 as test set.
+2024-03-29 08:50:27,663 - INFO - Subject 4, Epoch 1: Train Loss 0.0005, Test Loss 0.0056, Test Acc 1.0000, Test F1 1.0000
+2024-03-29 08:50:27,670 - INFO - Subject 4: Best Test Acc 1.0000
+2024-03-29 08:50:27,670 - INFO - Epoch 7/100, Training with Subject 4 as test set.
+2024-03-29 09:03:55,606 - INFO - Subject 4, Epoch 1: Train Loss 0.0233, Test Loss 0.0099, Test Acc 1.0000, Test F1 1.0000
+2024-03-29 09:03:55,620 - INFO - Subject 4: Best Test Acc 1.0000
+2024-03-29 09:03:55,621 - INFO - Epoch 8/100, Training with Subject 4 as test set.
+2024-03-29 09:17:39,908 - INFO - Subject 4, Epoch 1: Train Loss 0.0004, Test Loss 0.0139, Test Acc 1.0000, Test F1 1.0000
+2024-03-29 09:17:39,915 - INFO - Subject 4: Best Test Acc 1.0000
+2024-03-29 09:17:39,915 - INFO - Epoch 9/100, Training with Subject 4 as test set.
+2024-03-29 09:31:01,971 - INFO - Subject 4, Epoch 1: Train Loss 0.0300, Test Loss 0.1105, Test Acc 0.9431, Test F1 0.9417
+2024-03-29 09:31:01,978 - INFO - Subject 4: Best Test Acc 0.9431
+2024-03-29 09:31:01,979 - INFO - Epoch 10/100, Training with Subject 4 as test set.
+2024-03-29 09:44:29,254 - INFO - Subject 4, Epoch 1: Train Loss 0.0008, Test Loss 0.1649, Test Acc 0.9322, Test F1 0.9300
+2024-03-29 09:44:29,261 - INFO - Subject 4: Best Test Acc 0.9322
+2024-03-29 09:44:29,261 - INFO - Epoch 11/100, Training with Subject 4 as test set.
