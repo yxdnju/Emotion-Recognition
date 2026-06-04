@@ -109,6 +109,8 @@ The proposed **FESTFM** model integrates multimodal physiological signals (ECG, 
 ---
 
 ## 📁 Repository Structure
+
+
 FESTFM/
 ├── models/
 │ └── dynamic_gnn.py # HierarchicalGATConv, FeatureDisentangler, AdaptiveGraphPool, DynamicGNN, TemporalGNN
