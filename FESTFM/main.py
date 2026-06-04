@@ -108,15 +108,14 @@ print(f"总窗口样本数：{len(all_graphs)}")
 
 for fold, (train_idx, test_idx) in enumerate(kf.split(np.arange(len(all_graphs)), np.array([graph.y.item() for graph in all_graphs]))):
     # print(f"\n=== Fold {fold+1}/{n_splits} ===")
-    # if fold != 6:  # 仅处理第七折（enumerate从0开始，第七折是索引6）
-    #     continue
+ 
     
-    # print(f"\n=== 单独运行第七折 ===")
+    
     # 划分训练集和验证集（图数据列表）
     train_graphs = [all_graphs[i] for i in train_idx]
     test_graphs = [all_graphs[i] for i in test_idx]
     
-    # 打印标签分布（可选：遍历图数据提取标签）
+    # 打印标签分布
     train_labels = np.array([graph.y.item() for graph in train_graphs])
     test_labels = np.array([graph.y.item() for graph in test_graphs])
     print(f"Training set - Labels distribution: {np.bincount(train_labels)}")
