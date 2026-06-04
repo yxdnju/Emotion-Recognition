@@ -109,4 +109,19 @@ The proposed **FESTFM** model integrates multimodal physiological signals (ECG, 
 ---
 
 ## 📁 Repository Structure
-
+FESTFM/
+├── models/
+│ └── dynamic_gnn.py # HierarchicalGATConv, FeatureDisentangler, AdaptiveGraphPool, DynamicGNN, TemporalGNN
+├── data_processing/
+│ ├── dataprocessed_2.py # Data preprocessing and resampling (WESAD)
+│ ├── Dataset.py # PyG Dataset wrapper
+│ └── extract_features_graph_builder.py # Feature extraction & graph construction
+├── training/
+│ ├── train_and_detect.py # Training loop with OneCycleLR and early stopping
+│ ├── main_1_wesad.py # Main training script for WESAD dataset (LOSO CV)
+│ └── main_2_case.py # Main training script for CASE dataset (10-fold CV)
+├── losses/
+│ └── CustomLoss.py # Focal Loss with L1 regularization
+├── utils/
+│ └── performance.py # Model performance profiling (FLOPs, parameters, memory)
+└── README.md
